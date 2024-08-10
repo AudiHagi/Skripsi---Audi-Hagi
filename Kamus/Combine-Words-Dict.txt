@@ -1,0 +1,5850 @@
+abalan: abal
+ababil: abg labil
+event: acara
+hajad: acara
+hajat: acara
+helat: acara
+ifen: acara
+ivent: acara
+pesta: acara
+ad: ada
+adain: ada
+adakan: ada
+afa: ada
+alakadarnya: ada
+da: ada
+diadain: ada
+ngadain: ada
+adaterus: ada terus
+adalaaaah: adalah
+adl: adalah
+adlh: adalah
+dalah: adalah
+is: adalah
+adhock: adhoc
+edhoc: adhoc
+dek: adik
+dich: adik
+adm: administrator
+admim: administrator
+admin: administrator
+adminnya: administrator
+admint: administrator
+min: administrator
+mind: administrator
+sambat: adu
+addduuuh: aduh
+adech: aduh
+adeh: aduh
+adu: aduh
+aduhai: aduh
+aduuuh: aduh
+alah: aduh
+argh: aduh
+beeuuuh: aduh
+beh: aduh
+beuh: aduh
+buh: aduh
+duh: aduh
+duuuuh: aduh
+haaddeuh: aduh
+haddeh: aduh
+hadduh: aduh
+hade: aduh
+hadech: aduh
+hadeeech: aduh
+hadeeed: aduh
+hadeeeeh: aduh
+hadeeeh: aduh
+hadeeh: aduh
+hadeeuuh: aduh
+hadeew: aduh
+hadeewwh: aduh
+hadeh: aduh
+hadeuh: aduh
+hadeuuh: aduh
+hadeuuuh: aduh
+hadeuuuuuh: aduh
+hadew: aduh
+hadewh: aduh
+hado: aduh
+hadu: aduh
+haduch: aduh
+haduh: aduh
+haduuuh: aduh
+hayya: aduh
+hdeh: aduh
+hduh: aduh
+hedeeeh: aduh
+hedeh: aduh
+heedeh: aduh
+waduuh: aduh
+walah: aduh
+yeuh: aduh
+aga: agak
+rada: agak
+piar: agar
+aaaaah: ah
+aaah: ah
+akh: ah
+arrrrgggh: ah
+eeeaaah: ah
+uh: ah
+skill: ahli
+ahokncc: ahok
+ngairin: air
+jak: ajak
+ngajak: ajak
+totorial: ajar
+ajarinkami: ajar kami
+diakalin: akal
+akn: akan
+ahir: akhir
+ahirnya: akhir
+akfir: akhir
+akhirny: akhir
+terahir: akhir
+trkhir: akhir
+akhirx: akhirnya
+berkakibat: akibat
+akretasi: akreditasi
+acces: akses
+aces: akses
+aksesx: akses
+aksis: akses
+ekses: akses
+mengasesnya: akses
+ngakses: akses
+ngaksesnya: akses
+aktifasi: aktivasi
+aktifin: aktivasi
+aktifitas: aktivasi
+aktifvasi: aktivasi
+aktivasinya: aktivasi
+diaktivasi: aktivasi
+teraktivasi: aktivasi
+ngaku: aku
+accun: akun
+akuntable: akuntabel
+akirasi: akurat
+alama: alam
+alami: alam
+mengalmi: alam
+ngalami: alam
+ngalamin: alam
+pengalaman: alam
+ux: alam guna
+andres: alamat
+alas: alasan
+alesan: alasan
+alesannya: alasan
+alessannya: alasan
+alibi: alasan
+dalih: alasan
+dontol: alat kelamin laki laki
+komtol: alat kelamin laki laki
+peler: alat kelamin laki laki
+fefeq: alat kelamin perempuan
+memwk: alat kelamin perempuan
+mwmwk: alat kelamin perempuan
+alexader: alexander
+alhamdulilah: alhamdulillah
+alhamfulillah: alhamdulillah
+allhamdulilah: alhamdulillah
+allahu: allah
+alloh: allah
+artenatif: alternatif
+keamana: aman
+keamananya: aman
+kemananan: aman
+security: aman
+cybersecurty: aman siber
+awam: amatir
+newbie: amatir
+noob: amatir
+nub: amatir
+ngambil: ambil
+ngambilnya: ambil
+pengabilan: ambil
+take: ambil
+ambilin: ambilkan
+aamiin: amin
+aamin: amin
+amiiin: amin
+amiin: amin
+aminamin: amin
+ampiun: ampun
+ampung: ampun
+ampuun: ampun
+ampuuun: ampun
+amsyong: ampun
+tan: an
+ank: anak
+bocil: anak kecil
+analisasi: analisis
+menganalisis: analisis
+adr: android
+andoid: android
+andorid: android
+andoroid: android
+andro: android
+androidnya: android
+androinya: android
+androit: android
+andtoid: android
+diandroid: android
+aneeh: aneh
+freak: aneh
+nyeleneh: aneh
+aggran: anggar
+anggar: anggar
+anggara: anggar
+anggaranne: anggar
+anggran: anggar
+bajet: anggar
+budget: anggar
+budgetnya: anggar
+dana: anggar
+apbn: anggar dapat dan belanja negara
+anggita: anggota
+anggoa: anggota
+angota: anggota
+anjaaay: anjay
+anjir: anjay
+anjur: anjay
+bejir: anjay
+bjir: anjay
+bjirlah: anjay
+njir: anjay
+ajg: anjing
+ajig: anjing
+ajing: anjing
+amj: anjing
+anj: anjing
+anjeeeng: anjing
+anjeng: anjing
+anjim: anjing
+anjng: anjing
+anying: anjing
+anyink: anjing
+anyyiiing: anjing
+assu: anjing
+asu: anjing
+asw: anjing
+aswu: anjing
+asyu: anjing
+njing: anjing
+uassyyyu: anjing
+uasyu: anjing
+anter: antar
+among: antara
+ui: antarmuka guna
+api: antarmuka program aplikasi
+antri: antre
+ngantri: antre
+ap: apa
+apaaan: apa
+apaanih: apa
+apaansih: apa
+apain: apa
+apalah: apa
+apan: apa
+apapa: apa
+apasih: apa
+apha: apa
+appan: apa
+opo: apa
+pa: apa
+ppa: apa
+qpanya: apa
+papa: apa apa
+apani: apa ini
+apakabar: apa kabar
+apalaaagi: apalagi
+apalgi: apalagi
+apelagi: apalagi
+aplagi: apalagi
+aplg: apalagi
+aplgi: apalagi
+apqlagi: apalagi
+apqlqgi: apalagi
+asn: aparatur sipil negara
+afk: aplikasi
+aflikasi: aplikasi
+aflikasinya: aplikasi
+amplikasi: aplikasi
+amplikasinya: aplikasi
+apak: aplikasi
+apalikasi: aplikasi
+apikasi: aplikasi
+apikasinya: aplikasi
+apilkasi: aplikasi
+apk: aplikasi
+apkikasi: aplikasi
+apklikasi: aplikasi
+apklikasinya: aplikasi
+apkm: aplikasi
+apkny: aplikasi
+apknya: aplikasi
+apks: aplikasi
+apksinya: aplikasi
+apl: aplikasi
+aplakasi: aplikasi
+apliaksi: aplikasi
+apliaksinya: aplikasi
+aplication: aplikasi
+aplikaai: aplikasi
+aplikaainya: aplikasi
+aplikai: aplikasi
+aplikais: aplikasi
+aplikaisny: aplikasi
+aplikaisnya: aplikasi
+aplikas: aplikasi
+aplikasih: aplikasi
+aplikasihnya: aplikasi
+aplikasimya: aplikasi
+aplikasina: aplikasi
+aplikasine: aplikasi
+aplikasinga: aplikasi
+aplikasini: aplikasi
+aplikasinnya: aplikasi
+aplikasiny: aplikasi
+aplikasinya: aplikasi
+aplikasinyak: aplikasi
+aplikasinyo: aplikasi
+aplikasisi: aplikasi
+aplikasix: aplikasi
+aplikasiya: aplikasi
+aplikasjnya: aplikasi
+aplikask: aplikasi
+aplikasnya: aplikasi
+aplikasunya: aplikasi
+aplikator: aplikasi
+aplikkasi: aplikasi
+apliknsinya: aplikasi
+apliks: aplikasi
+apliksi: aplikasi
+apliksih: aplikasi
+apliksinya: aplikasi
+aplilasi: aplikasi
+aplilasinya: aplikasi
+aplk: aplikasi
+aplkasi: aplikasi
+aplkikasinya: aplikasi
+aplkkasinya: aplikasi
+aplks: aplikasi
+aplksi: aplikasi
+aplksiny: aplikasi
+apllikasi: aplikasi
+aplnya: aplikasi
+aplukasi: aplikasi
+app: aplikasi
+applikasi: aplikasi
+applikasih: aplikasi
+applikasinya: aplikasi
+appny: aplikasi
+appnya: aplikasi
+apps: aplikasi
+appsnya: aplikasi
+aps: aplikasi
+ask: aplikasi
+keapl: aplikasi
+palikasinya: aplikasi
+plikasi: aplikasi
+plikasinya: aplikasi
+qpliksi: aplikasi
+software: aplikasi
+softwarenya: aplikasi
+uplikasi: aplikasi
+aplikasibtdk: aplikasi tidak
+webapp: aplikasi website
+appstore: app store
+diarahin: arah
+ranah: area
+ngarit: arit
+ngasal: asal
+ngawur: asal
+asbun: asal bunyi
+aljasa: asal jadi saja
+astul: asal tulis
+asem: asam
+ashar: asar
+azasnya: asas
+asyik: asik
+original: asli
+otentik: asli
+real: asli
+riil: asli
+aspal: asli tetapi palsu
+assalamu: assalamualaikum
+asslamulikum: assalamualaikum
+wasslamulikum: assalamualaikum
+alamak: astaga
+buset: astaga
+busyet: astaga
+eah: astaga
+ealaah: astaga
+eeetdah: astaga
+elah: astaga
+etdah: astaga
+euh: astaga
+oalah: astaga
+omegot: astaga
+omg: astaga
+owalah: astaga
+astrojim: astagfirullahaladzim
+astagfirullah: astaghfirullahaladziim
+astaghfirullah: astaghfirullahaladziim
+astaghfirullahalazim: astaghfirullahaladziim
+istighfar: astaghfirullahaladziim
+aseek: asyik
+aseknya: asyiknya
+atan: atas
+mengatsi: atas
+ngatasi: atas
+terasi: atas
+atauw: atau
+ataw: atau
+ato: atau
+atw: atau
+maupun: atau
+or: atau
+aturanya: atur
+aturen: atur
+disetting: atur
+kesetting: atur
+nyetingn: atur
+setel: atur
+seting: atur
+setingan: atur
+setting: atur
+settingan: atur
+settingannya: atur
+settingna: atur
+aauntetikasi: autentikasi
+auntentik: autentikasi
+auntetikasi: autentikasi
+aunthenticatornya: autentikasi
+auntifikasi: autentikasi
+autenicator: autentikasi
+autenik: autentikasi
+autentic: autentikasi
+autenticate: autentikasi
+autenticator: autentikasi
+autentification: autentikasi
+autentifikasi: autentikasi
+autentik: autentikasi
+autentikator: autentikasi
+autentivikasi: autentikasi
+authenticate: autentikasi
+authenticated: autentikasi
+authentication: autentikasi
+authenticator: autentikasi
+authentifikasi: autentikasi
+authentikan: autentikasi
+authentikasi: autentikasi
+authentikasinya: autentikasi
+authrnticator: autentikasi
+ontemtikasi: autentikasi
+otensifikasi: autentikasi
+otentifikasi: autentikasi
+otentifikasinya: autentikasi
+otentikasi: autentikasi
+otorisasi: autentikasi
+ountifikasi: autentikasi
+outentifikasinya: autentikasi
+outikasi: autentikasi
+utentifikasi: autentikasi
+fa: autentikasi dua faktor
+fanya: autentikasi dua faktor
+ava: avatar
+aws: awas
+bokap: ayah
+bonyok: ayah ibu
+ayok: ayo
+ayolaaah: ayo
+ayu: ayo
+come: ayo
+go: ayo
+yok: ayo
+yuh: ayo
+yuk: ayo
+ayodong: ayo dong
+ayolah: ayo lah
+ngebaca: baca
+pmbacaan: baca
+read: baca
+terbac: baca
+backendnya: backend
+bohay: badan aduhai
+bazis: badan amal, zakat, infak, dan sedekah
+bawaslu: badan awas pilih umum
+bpjs: badan selenggara jamin sosial
+bgai: bagai
+sbg: bagai
+sbgai: bagai
+sbginya: bagai
+sbb: bagai ikut
+bagaima: bagaimana
+bagaimama: bagaimana
+bagaiman: bagaimana
+bagaimna: bagaimana
+bagamana: bagaimana
+bagiman: bagaimana
+begimana: bagaimana
+bgaimana: bagaimana
+bgaimna: bagaimana
+bgimana: bagaimana
+bgmana: bagaimana
+bgmn: bagaimana
+bgmna: bagaimana
+bijimane: bagaimana
+cemana: bagaimana
+cemananya: bagaimana
+gemana: bagaimana
+gemna: bagaimana
+giaman: bagaimana
+giman: bagaimana
+gimana: bagaimana
+gimanalah: bagaimana
+gimanasih: bagaimana
+gimaneh: bagaimana
+gimn: bagaimana
+gimna: bagaimana
+gimsna: bagaimana
+gmama: bagaimana
+gman: bagaimana
+gmn: bagaimana
+gmna: bagaimana
+gmnasih: bagaimana
+gmnin: bagaimana
+how: bagaimana
+kmha: bagaimana
+kumaha: bagaimana
+mna: bagaimana
+nyabgmn: bagaimana
+pie: bagaimana
+piye: bagaimana
+dishare: bagi
+share: bagi
+sharing: bagi
+seblah: bagian
+apik: bagus
+baagus: bagus
+bagud: bagus
+bagusin: bagus
+baguus: bagus
+bangus: bagus
+bgaus: bagus
+bgs: bagus
+bgsu: bagus
+bgus: bagus
+brilian: bagus
+cakep: bagus
+dibagusinlah: bagus
+excellent: bagus
+exelent: bagus
+fine: bagus
+gabus: bagus
+god: bagus
+good: bagus
+goood: bagus
+gooood: bagus
+hauche: bagus
+jempol: bagus
+keran: bagus
+kereeen: bagus
+kren: bagus
+matoh: bagus
+megesankan: bagus
+memadahi: bagus
+mulus: bagus
+nais: bagus
+nice: bagus
+op: bagus
+perfect: bagus
+tokcer: bagus
+wel: bagus
+well: bagus
+welll: bagus
+welllll: bagus
+nicegood: bagus mantap
+happy: bahagia
+bhan: bahan
+handak: bahan peledak
+bahkn: bahkan
+bhkn: bahkan
+bahwasanya: bahwa
+assip: baik
+bail: baik
+benah: baik
+benahin: baik
+benai: baik
+benerin: baik
+benerinnya: baik
+beresin: baik
+best: baik
+betulin: baik
+bsik: baik
+diatasi: baik
+dibaikin: baik
+dibenarin: baik
+dibenerin: baik
+dierbaiki: baik
+diperbaiki: baik
+diperbaikin: baik
+diph: baik
+diprbaiki: baik
+disepurnakan: baik
+ditikat: baik
+ditingkatin: baik
+ditingkatka: baik
+dperbaiki: baik
+enhance: baik
+fiks: baik
+fix: baik
+fixed: baik
+fux: baik
+ik: baik
+maintance: baik
+mainten: baik
+maintenance: baik
+maintence: baik
+maintenence: baik
+ningkat: baik
+ningkatin: baik
+nyempurnain: baik
+oc: baik
+ok: baik
+okay: baik
+oke: baik
+okeh: baik
+okejos: baik
+okey: baik
+oklah: baik
+okok: baik
+oky: baik
+ook: baik
+optimal: baik
+optimalin: baik
+optimalisasi: baik
+optimalkam: baik
+optimasi: baik
+optimlkan: baik
+patut: baik
+pebenahanya: baik
+pemutahiran: baik
+perbaikaannya: baik
+perbaiki: baik
+perbaikin: baik
+perbaikn: baik
+perbaki: baik
+perbiki: baik
+prbaiki: baik
+sbaikny: baik
+seyogyanya: baik
+sib: baik
+siiiip: baik
+siiip: baik
+siip: baik
+sip: baik
+suip: baik
+sup: baik
+tingkat: baik
+tingkatin: baik
+tingkatkn: baik
+tingkt: baik
+tungkatkan: baik
+bajakan: bajak
+kebajikan: bajik
+banjingan: bajing
+sekiya: bajing
+bakaln: bakal
+bakln: bakal
+bkal: bakal
+bkalan: bakal
+bsre: balai sertifikasi elektronik
+balasan: balas
+blzn: balas
+dibales: balas
+balek: balik
+balikin: balik
+mbalik: balik
+bencong: banci
+dibnding: banding
+bdg: bandung
+banh: bang
+bg: bang
+dude: bang
+gan: bang
+jal: bang
+king: bang
+ndan: bang
+bangedh: banget
+banga: bangga
+priet: bangga
+narsis: bangga pada diri sendiri
+bangai: bangkai
+bangke: bangkai
+bgke: bangkai
+bgst: bangsat
+bangking: banking
+bantuannnya: bantu
+bantuanx: bantu
+bantuanya: bantu
+bantuin: bantu
+bntu: bantu
+bntuanya: bantu
+mbantu: bantu
+mebantu: bantu
+membantu: bantu
+mmembanti: bantu
+ngebantu: bantu
+bansos: bantu sosial
+bandes: bantuan desa
+banpol: bantuan polisi
+banpres: bantuan presiden
+bansarkas: bantuan sarana kesehatan
+banpur: bantuan tempur
+ba: banyak
+banuak: banyak
+banya: banyak
+banyaak: banyak
+banyakin: banyak
+banyakny: banyak
+banyknya: banyak
+bayak: banyak
+bnyak: banyak
+bnyal: banyak
+bnyk: banyak
+buanyaaak: banyak
+buanyak: banyak
+buuuanyak: banyak
+byak: banyak
+byk: banyak
+kakean: banyak
+kbnyakan: banyak
+kbnykn: banyak
+kebayakan: banyak
+kebnyakan: banyak
+kebnyakn: banyak
+multipel: banyak
+bacot: banyak bicara
+bapa: bapak
+bpak: bapak
+bpk: bapak
+pack: bapak
+pak: bapak
+barangsiapa: barang siapa
+brngkali: barangkali
+berbie: barbie
+brg: bareng
+abdate: baru
+abded: baru
+apdate: baru
+apdet: baru
+apgred: baru
+baharu: baru
+br: baru
+bru: baru
+diabdet: baru
+diapdet: baru
+diupate: baru
+diupdate: baru
+diupgrade: baru
+dupgrade: baru
+memberparui: baru
+mengapgret: baru
+mengupdate: baru
+new: baru
+opdat: baru
+perbahurui: baru
+prbaharui: baru
+terbr: baru
+terupdate: baru
+terupgrade: baru
+trbaru: baru
+ubdate: baru
+ubdet: baru
+uldate: baru
+uodate: baru
+upadate: baru
+updat: baru
+updata: baru
+updatae: baru
+update: baru
+updatean: baru
+updated: baru
+updatelah: baru
+updatenya: baru
+updatetannya: baru
+updatr: baru
+updet: baru
+updete: baru
+updeting: baru
+updte: baru
+upedate: baru
+upgrade: baru
+upgraede: baru
+upgrate: baru
+upgrde: baru
+upgred: baru
+upgret: baru
+uptudet: baru
+uptudte: baru
+barusah: baru saja
+barusan: baru saja
+barususah: baru sulit
+basbang: basi
+berbasis: basis
+bervasis: basis
+database: basis data
+databasenya: basis data
+batalin: batal
+cancel: batal
+btas: batas
+tenggat: batas
+deadline: batas waktu
+batrai: baterai
+watuk: batuk
+bauk: bau
+bawan: bawa
+default: bawa
+defaultnya: bawa
+depaul: bawa
+bawahny: bawah
+bwhn: bawahan
+banyangkan: bayang
+bayangin: bayang
+kbayang: bayang
+ngebayangin: bayang
+ngembayangin: bayang
+byr: bayar
+dbayar: bayar
+fee: bayar
+pay: bayar
+byrin: bayarkan
+benban: beban
+free: bebas
+beti: beda tipis
+beginih: begini
+beginj: begini
+bengini: begini
+bgini: begini
+bgni: begini
+gin: begini
+gini: begini
+ginian: begini
+gni: begini
+ngene: begini
+bgitu: begitu
+bgtu: begitu
+bigutu: begitu
+gitu: begitu
+gitua: begitu
+gituh: begitu
+gitulah: begitu
+gituloh: begitu
+gmana: begitu
+gth: begitu
+gtoo: begitu
+gtu: begitu
+ngono: begitu
+really: begitu
+bain: bela
+dibelain: bela
+ngebelain: bela
+blajar: belajar
+bljar: belajar
+spend: belanja
+belasan: belas
+bl: beli
+beliin: belikan
+bekum: belum
+belm: belum
+belom: belum
+belu: belum
+belug: belum
+belup: belum
+belus: belum
+beoum: belum
+beum: belum
+blm: belum
+blom: belum
+blum: belum
+lom: belum
+lum: belum
+sbelum: belum
+sblm: belum
+sblmnya: belum
+sblmya: belum
+sblum: belum
+sblumnya: belum
+sebelumnua: belum
+sebelumny: belum
+sebelumya: belum
+seblm: belum
+seblmnya: belum
+seblum: belum
+seblumnya: belum
+velum: belum
+bener: benar
+beneran: benar
+benerlah: benar
+benernya: benar
+bner: benar
+bnr: benar
+confirm: benar
+henar: benar
+near: benar
+sbenarnya: benar
+sbnrny: benar
+sbnrnya: benar
+sebener: benar
+sebenermya: benar
+sebenernya: benar
+sebenrny: benar
+sebenrnya: benar
+bnchi: benci
+bantar: bentar
+bentar: bentar
+bntar: bentar
+bntr: bentar
+entar: bentar
+sbntar: bentar
+sbntr: bentar
+sebentar: bentar
+sebntar: bentar
+home: beranda
+brngkt: berangkat
+jentelmen: berani
+acakadut: berantak
+amburadul: berantak
+ambyar: berantak
+awur: berantak
+buyer: berantak
+rancau: berantak
+ricuh: berantak
+semprawut: berantak
+beranta: berantas
+bberapa: berapa
+bbrapa: berapa
+bbrp: berapa
+bbrpa: berapa
+beberapabebraph: berapa
+bebereapa: berapa
+beberp: berapa
+beberpa: berapa
+bebraph: berapa
+berap: berapa
+berpa: berapa
+brapa: berapa
+brp: berapa
+brpa: berapa
+brrp: berapa
+rapa: berapa
+bbrpcara: berapa cara
+beberapakali: berapa kali
+beberapaperangkat: berapa perangkat
+beras: berat
+ngibul: berbohong
+ngebandel: berbuat bandel
+bcanda: bercanda
+berdikari: berdiri di atas kaki sendiri
+brengsek: berengsek
+cok: berengsek
+cook: berengsek
+cuk: berengsek
+jancok: berengsek
+ngegosip: bergosip
+berikan: beri
+berilah: beri
+kasi: beri
+menberikan: beri
+ngasi: beri
+semat: beri
+php: beri harap palsu
+beritahu: beri tahu
+dberitahukan: beri tahu
+diberitahukan: beri tahu
+pembeitahuannya: beri tahu
+pemberitahuan: beri tahu
+pemberitahuannya: beri tahu
+file: berkas
+mberkas: berkas
+ngeles: berkilah
+ngumpul: berkumpul
+lebay: berlebihan
+bersihin: bersih
+cleansing: bersih
+clir: bersih
+numpuk: bertumpuk
+akbar: besar
+besarin: besar
+big: besar
+digedein: besar
+gede: besar
+gedhe: besar
+megah: besar
+ngezoom: besar
+perbeaar: besar
+teebesar: besar
+zoom: besar
+besokx: besok
+besuk: besok
+bsk: besok
+bsok: besok
+esok: besok
+alangkah: betapa
+betol: betul
+ben: biar
+biarin: biar
+biat: biar
+bir: biar
+biyar: biar
+ngomong: bicara
+ngomongin: bicara
+babibu: bicara suatu
+ngemeng: bicara terus
+bikang: bilang
+bilangin: bilang
+bilng: bilang
+bilanggagal: bilang gagal
+bimbingan: bimbing
+membingbing: bimbing
+bintek: bimbing teknik
+biktekan: bimbing teknis
+bimtek: bimbing teknis
+bimteknya: bimbing teknis
+membimtek: bimbing teknis
+membintek: bimbing teknis
+bimbuluh: bimbingan dan penyuluhan
+bintal: bimbingan mental
+grid: bingkai
+fps: bingkai per detik
+bagong: bingung
+bigung: bingung
+bimbang: bingung
+binggung: bingung
+glabakan: bingung
+membangongongkan: bingung
+membingunkan: bingung
+menglieurkan: bingung
+mumeeeeeeet: bingung
+mumet: bingung
+bingahg: bintang
+bntang: bintang
+geometrik: biometik
+bimetrik: biometrik
+biometik: biometrik
+biometri: biometrik
+biometric: biometrik
+becus: bisa
+besa: bisa
+bia: bisa
+bida: bisa
+bis: bisa
+bisah: bisa
+bisain: bisa
+bise: bisa
+biso: bisa
+bisqa: bisa
+bosa: bisa
+bs: bisa
+bsa: bisa
+bsah: bisa
+bsia: bisa
+busa: bisa
+can: bisa
+isa: bisa
+iso: bisa
+isob: bisa
+kenek: bisa
+nisa: bisa
+pacak: bisa
+pecus: bisa
+sa: bisa
+subisa: bisa
+visa: bisa
+bisabisa: bisa bisa
+bisalagi: bisa lagi
+bisamasuk: bisa masuk
+bismilah: bismillahirrahmannirrahiim
+bismillah: bismillahirrahmannirrahiim
+bismillahirrahmanirrahim: bismillahirrahmannirrahiim
+bismillahirrohmanirrohim: bismillahirrahmannirrahiim
+bitang: bitang
+blablabla: bla bla bla
+bonek: bocah nekat
+bego: bodoh
+blok: bodoh
+bloon: bodoh
+bodo: bodoh
+bodok: bodoh
+bongol: bodoh
+budduh: bodoh
+gebleg: bodoh
+gemblung: bodoh
+gobl: bodoh
+goblog: bodoh
+goblok: bodoh
+idiot: bodoh
+koplak: bodoh
+koplok: bodoh
+ooon: bodoh
+pea: bodoh
+peak: bodoh
+pekok: bodoh
+somplak: bodoh
+tol: bodoh
+tolol: bodoh
+abal: bodong
+bhg: bohong
+bong: bohong
+boong: bohong
+boooooonng: bohong
+dobol: bohong
+bolah: bolak
+bulak: bolak
+blh: boleh
+boljug: boleh juga
+mabal: bolos
+boomers: boomer
+booos: bos
+boos: bos
+boskuh: bos
+boskuw: bos
+bosq: bos
+bossas: bos
+bossku: bos
+bossqu: bos
+boring: bosan
+bosen: bosan
+sebuqh: buah
+mbual: bual
+wasting: buang
+boker: buang air besar
+beking: buat
+besut: buat
+bikiin: buat
+bikin: buat
+bkin: buat
+bking: buat
+buatin: buat
+bust: buat
+buwat: buat
+bwt: buat
+cetus: buat
+create: buat
+creatornya: buat
+defo: buat
+depeloper: buat
+depelopernya: buat
+depeloperx: buat
+depelover: buat
+depelovernya: buat
+deplover: buat
+dev: buat
+develop: buat
+develope: buat
+developer: buat
+developersnya: buat
+developher: buat
+developing: buat
+development: buat
+developnya: buat
+develover: buat
+devilover: buat
+devloper: buat
+devlopernya: buat
+devlover: buat
+devnya: buat
+diplopernya: buat
+dvloper: buat
+enginer: buat
+enginering: buat
+garai: buat
+garap: buat
+kembangin: buat
+kreator: buat
+made: buat
+maker: buat
+membat: buat
+mmbuat: buat
+ngebuat: buat
+ngembangin: buat
+ngembanginnya: buat
+pemgembang: buat
+pengebanganya: buat
+pengembagan: buat
+pengembng: buat
+pengemvang: buat
+pikin: buat
+pngembang: buat
+pogremernya: buat
+progammer: buat
+programer: buat
+programernya: buat
+programmer: buat
+programmernya: buat
+programming: buat
+bikpus: buat pusing
+buatsungguh: buat sungguh
+bubarin: bubar
+buft: bug
+bka: buka
+bukaanya: buka
+bukak: buka
+bukane: buka
+dbuka: buka
+dibukak: buka
+mbuka: buka
+ngebuka: buka
+open: buka
+sibuka: buka
+buber: buka bersama
+unlock: buka kunci
+bkan: bukan
+bkannya: bukan
+bkn: bukan
+bknnya: bukan
+bknya: bukan
+buak: bukan
+buakn: bukan
+bukankah: bukan
+bukanya: bukan
+bukanyq: bukan
+bukn: bukan
+bukqn: bukan
+buksn: bukan
+tilang: bukti pelanggaran
+bln: bulan
+bulet: bulat
+keburu: buru
+buser: buru sergap
+bad: buruk
+bosok: buruk
+bosoook: buruk
+bucuk: buruk
+buosok: buruk
+buosook: buruk
+burek: buruk
+burik: buruk
+buriq: buruk
+burique: buruk
+burujk: buruk
+burut: buruk
+buruuk: buruk
+busuk: buruk
+busuuk: buruk
+busuuuuuk: buruk
+chuak: buruk
+cuaks: buruk
+cuax: buruk
+jlk: buruk
+kusut: buruk
+nemen: buruk
+paraaaah: buruk
+worst: buruk
+btuh: butuh
+dibutuhin: butuh
+kuno: butut
+chasil: c hasil
+cacad: cacat
+cerca: caci
+backup: cadang
+dibackup: cadang
+blis: cahaya
+blitz: cahaya
+light: cahaya
+caem: cakep
+caleg: calon legislatif
+cpns: calon pegawai negeri sipil
+capres: calon presiden
+capresnya: calon presiden
+cawapres: calon wakil presiden
+cmpr: campur
+cantumin: cantum
+mncapai: capai
+cape: capek
+capeeek: capek
+capeek: capek
+capekin: capek
+cpe: capek
+mengcape: capek
+cra: cara
+pentunjuknya: cara
+scr: cara
+secara: cara
+secra: cara
+trix: cara
+cri: cari
+dcari: cari
+mncari: cari
+nyari: cari
+caper: cari perhatian
+catet: catat
+log: catat
+note: catat
+nyatet: catat
+vn: catat suara
+cecer: cecar
+cekal: cegah tangkal
+check: cek
+ck: cek
+ngecek: cek
+pengecekan: cek
+nyela: cela
+cangcut: celana dalam
+cemplungin: cemplungkan
+akselerasi: cepat
+capat: cepat
+cepet: cepat
+cepetan: cepat
+cepqt: cepat
+cpet: cepat
+cpt: cepat
+fast: cepat
+kebut: cepat
+kencang: cepat
+kenceenng: cepat
+kenceng: cepat
+mmpercepat: cepat
+quick: cepat
+satset: cepat
+secepatnya: cepat
+secepetnya: cepat
+speed: cepat
+benderang: cerah
+bening: cerah
+pecerahan: cerah
+pencerahannya: cerah
+pencerahanya: cerah
+cermat: cerdas
+intelektualitas: cerdas
+keminter: cerdas
+pandai: cerdas
+pintar: cerdas
+pinter: cerdas
+smart: cerdas
+ai: cerdas buat
+ianya: cerdas buat
+dongeng: cerita
+story: cerita
+printer: cetak
+ce: cewek
+chroom: chrome
+crome: chrome
+ciye: cie
+cuih: cih
+juih: cih
+cin: cinta
+clbk: cinta lama bersemi kembali
+conlok: cinta lokasi
+chipset: cip
+nyiptain: cipta
+cipika cipiki: cium pipi kanan cium pipi kiri
+ckck: ck
+cb: coba
+cba: coba
+cn: coba
+cobain: coba
+cobak: coba
+dicobah: coba
+nyoba: coba
+nyobain: coba
+percobaab: coba
+try: coba
+dicobacoba: coba coba
+otakatik: coba coba
+cekidot: coba lihat
+nyoblos: coblos
+ccok: cocok
+diuninstal: copot
+diunstal: copot
+hapus: copot
+pretelin: copot
+uninst: copot
+uninstal: copot
+uninstall: copot
+unisntal: copot
+unistal: copot
+unsintal: copot
+unstl: copot
+cmiiw: correct me if i'm wrong
+cow: cowok
+cuex: cuek
+ckup: cukup
+cups: culun
+cumi: cuma miscall
+curcol: curahan hati colongan
+curhatan: curhat
+coy: cuy
+euy: cuy
+eeey: cuy
+ey: cuy
+uy: cuy
+dadakan: dadak
+ngedadak: dadak
+daeranya: daerah
+daftara: daftar
+list: daftar
+pebdaftaran: daftar
+register: daftar
+registrasi: daftar
+terdaftat: daftar
+dl: dahulu
+dlu: dahulu
+dulu: dahulu
+dulua: dahulu
+dululah: dahulu
+dalan: dalam
+dalem: dalam
+dlam: dalam
+dlm: dalam
+otw: dalam jalan
+impact: dampak
+and: dan
+daan: dan
+dam: dan
+dn: dan
+dqn: dan
+land: dan
+n: dan
+nd: dan
+plus: dan
+dll: dan lain lain
+dsb: dan sebagainya
+dkk: dan teman teman
+dst: dan terus
+daoet: dapat
+dapa: dapat
+dapaftkan: dapat
+dapan: dapat
+dapet: dapat
+dapetin: dapat
+dpat: dapat
+dpet: dapat
+dpt: dapat
+medapatkan: dapat
+memdapatkan: dapat
+mendapatakan: dapat
+mendapatkam: dapat
+mendapatkn: dapat
+mendaptkan: dapat
+mendpt: dapat
+mendptkn: dapat
+mndapat: dapat
+mndapatkan: dapat
+mndatkan: dapat
+mndptkan: dapat
+obtain: dapat
+mendapatkankunci: dapat kunci
+daro: dari
+dr: dari
+dri: dari
+of: dari
+sedari: dari
+daritadi: dari tadi
+drmn: darimana
+daripda: daripada
+daripqda: daripada
+dripda: daripada
+drpd: daripada
+acu: dasar
+basic: dasar
+fundamental: dasar
+dasbord: dasbor
+panel: dasbor
+dta: data
+datin: data dan informasi
+coming: datang
+datangin: datang
+dateng: datang
+hd: definisi tinggi
+dech: deh
+deeeeh: deh
+deeh: deh
+deket: dekat
+dket: dekat
+mempet: dekat
+meped: dekat
+mepet: dekat
+mndekati: dekat
+msendekati: dekat
+dengn: dengan
+dg: dengan
+dgn: dengan
+dng: dengan
+dngan: dengan
+dngn: dengan
+with: dengan
+dpn: depan
+kdepan: depan
+kdpannya: depan
+design: desain
+designer: desain
+iux: desain alam dan antarmuka guna
+genting: desak
+ngedesak: desak
+urgen: desak
+urgensi: desak
+desc: deskripsi
+desk: deskripsi
+deskripi: deskripsi
+ditail: detail
+detect: deteksi
+ditek: deteksi
+kedetec: deteksi
+keditek: deteksi
+dpd: dewan wakil daerah
+dpr: dewan wakil rakyat
+dprd: dewan wakil rakyat daerah
+dpri: dewan wakil rakyat republik indonesia
+mature: dewasa
+d: di
+du: di
+diman: di mana
+dimana: di mana
+dimna: di mana
+dmn: di mana
+disono: di sana
+didinya: di situ
+dinya: dia
+paud: didik anak usia dini
+ddigital: digital
+digitak: digital
+digitaliaasi: digital
+digitalisai: digital
+digitalisasi: digital
+ditigal: digital
+gita: digital
+gital: digital
+gitilisasi: digital
+diancurin: dihancurkan
+aka: dikenal juga sebagai
+dimaafin: dimaafkan
+dimensity: dimensi
+dimintak: diminta
+ketrima: diterima
+berdo: doa
+documen: dokumen
+dok: dokumen
+dokomen: dokumen
+dokument: dokumen
+dokumenya: dokumen
+dolumen: dokumen
+ath: dong
+atuh: dong
+atuuh: dong
+dog: dong
+donk: dong
+doong: dong
+doonk: dong
+dooong: dong
+dooonng: dong
+dung: dong
+dwong: dong
+disupport: dukung
+dukukangan: dukung
+menyuport: dukung
+suport: dukung
+support: dukung
+supprot: dukung
+duluan: dulu
+ajep ajep: dunia gemerlap
+duren: durian
+ece: ecek
+ed: edisi
+efektifitas: efektif
+efektit: efektif
+efesien: efisien
+efiaien: efisien
+efisiensi: efisien
+evisien: efisien
+mengefesiensikan: efisien
+eeh: eh
+ekspektasinya: ekspektasi
+ektra: ekstra
+elite: elit
+ngelit: elit
+elit: elite
+agmail: email
+gmail: email
+imail: email
+mail: email
+egp: emang gue pikirin
+emosional: emosi
+esmosi: emosi
+enk: enak
+terhendus: endus
+entahlaah: entah
+entalah: entah
+eeeeeerrrroor: eror
+eeerrrooor: eror
+elor: eror
+elorrnya: eror
+eoro: eror
+ereor: eror
+eroe: eror
+eroooor: eror
+eroor: eror
+erore: eror
+eroro: eror
+erorrnya: eror
+erorrrre: eror
+err: eror
+errir: eror
+erroooor: eror
+error: eror
+errorlah: eror
+errornya: eror
+errror: eror
+ertor: eror
+oleng: eror
+oror: eror
+erorterus: eror terus
+eval: evaluasi
+fb: facebook
+pesbuk: facebook
+fax: facsimile
+fagh: fak
+fcek: fak
+faktakta: fakta
+feb: februari
+february: februari
+febuari: februari
+peb: februari
+pebruari: februari
+fifo: first in first out
+fiturny: fitur
+fiturnya: fitur
+ftur: fitur
+pitur: fitur
+vitur: fitur
+flexible: fleksibel
+focus: fokus
+fokusa: fokus
+fokusin: fokus
+mempokuskan: fokus
+ngefokusin: fokus
+autofocus: fokus otomatis
+autofokus: fokus otomatis
+folbek: follow back
+form: formulir
+foro: foto
+ft: foto
+fto: foto
+ftonya: foto
+jempretan: foto
+jepret: foto
+menfoto: foto
+moto: foto
+motret: foto
+ngefoto: foto
+photo: foto
+poto: foto
+potonya: foto
+potret: foto
+terfoto: foto
+epep: free fire
+befungsi: fungsi
+berfunhsi: fungsi
+berfunsi: fungsi
+pungsi: fungsi
+begadang: gadang
+crash: gagal
+crashed: gagal
+crush: gagal
+fail: gagal
+failde: gagal
+failed: gagal
+filed: gagal
+filid: gagal
+gagak: gagal
+galat: gagal
+gegagalan: gagal
+ggal: gagal
+ggl: gagal
+hagal: gagal
+hang: gagal
+kegalalan: gagal
+kolap: gagal
+ngandet: gagal
+ngblank: gagal
+ngeblak: gagal
+ngeblank: gagal
+ngefreeze: gagal
+ngeglitch: gagal
+ngehang: gagal
+ngehank: gagal
+palid: gagal
+vailed: gagal
+zong: gagal
+zonk: gagal
+zoonk: gagal
+gagalendapatkan: gagal dapat
+gatot: gagal total
+gaptek: gagap teknologi
+gajih: gaji
+gajine: gaji
+honor: gaji
+insentive: gaji
+upah: gaji
+umr: gaji minimum regional
+jutek: galak
+album: galeri
+galery: galeri
+gallery: galeri
+galerigamatang: galeri tidak siap
+gambarny: gambar
+gambarx: gambar
+gmbr: gambar
+image: gambar
+dual: ganda
+ganggguan: ganggu
+ganguan: ganggu
+menganggu: ganggu
+mengangu: ganggu
+menggangu: ganggu
+mengganngu: ganggu
+cimeng: ganja
+gantengsaya: ganteng
+dignti: ganti
+gati: ganti
+gatiin: ganti
+gnti: ganti
+menganti: ganti
+gantinsandi: ganti sandi
+gegara: gara
+gra: gara
+krik: garing
+menggatelkan: gatal
+gaswat: gawat
+gegayaan: gaya
+gr: gede rasa
+gepeng: gelandangan dan pengemis
+dark: gelap
+segenap: genap
+ndut: gendut
+gen: generasi
+brgerak: gerak
+move: gerak
+garcep: gerak cepat
+gercep: gerak cepat
+giga: gigabita
+gigabyte: gigabita
+gb: gigabyte
+gino: gigi nongol
+gendeng: gila
+gilak: gila
+gile: gila
+koclok: gila
+gliran: gilir
+githu: gitu
+guoblok: goblok
+golput: golongan putih
+gontak: gonta
+geogle: google
+goggle: google
+gogle: google
+gugel: google
+googleauth: google autentikasi
+playstor: google play store
+playstore: google play store
+geratis: gratis
+gretongan: gratisan
+scrol: gulir
+beguna: guna
+bergguna: guna
+berguana: guna
+berguna: guna
+beroprasi: guna
+beroprasional: guna
+dgunain: guna
+dgunakan: guna
+diapakai: guna
+diapke: guna
+digunain: guna
+digunakn: guna
+digunalan: guna
+digunankan: guna
+digunkaan: guna
+dimainin: guna
+dioperasiin: guna
+dioperikan: guna
+dioprasikan: guna
+dioprasionalkan: guna
+dipakaj: guna
+dipake: guna
+dipakein: guna
+dipakek: guna
+dipakeknya: guna
+dipakenya: guna
+dipke: guna
+dpake: guna
+dugunakan: guna
+faedah: guna
+gae: guna
+gunain: guna
+gunaka: guna
+gunakam: guna
+gunakan: guna
+gunakn: guna
+gunkaan: guna
+kepake: guna
+kpke: guna
+mainin: guna
+make: guna
+makeknya: guna
+makenya: guna
+manngunakan: guna
+menggunakn: guna
+menggunaknanye: guna
+menggunkan: guna
+mengoprasikan: guna
+mengukan: guna
+mengunakan: guna
+mengunakannya: guna
+mggunakan: guna
+mnggunakan: guna
+mngunakan: guna
+nemakai: guna
+ngoperasiin: guna
+oakek: guna
+oengguna: guna
+operasi: guna
+operasional: guna
+oprasi: guna
+oprasiin: guna
+oprasikan: guna
+oprasinya: guna
+oprasional: guna
+oprasionalkan: guna
+pakai: guna
+pakaj: guna
+pakak: guna
+pake: guna
+pakek: guna
+pakenya: guna
+pemakainnya: guna
+pengaplikasinanya: guna
+pengguan: guna
+pengguanaan: guna
+pengguna: guna
+penggunaaan: guna
+penggunaan: guna
+penggunaanya: guna
+penggunaat: guna
+penggunannya: guna
+penghuna: guna
+pengopasiannya: guna
+pengoperasianya: guna
+pengoprasian: guna
+pengoprasiannya: guna
+pengoprasiannyanya: guna
+penguna: guna
+pengunaannya: guna
+pengunanya: guna
+pk: guna
+pkai: guna
+pke: guna
+pkek: guna
+terap: guna
+use: guna
+user: guna
+usernya: guna
+usser: guna
+penggunakemudian: guna kemudian
+habisin: habis
+hbis: habis
+ngaabisin: habis
+ngabis: habis
+ngabisiin: habis
+ngabisin: habis
+ngehabiskan: habis
+timeout: habis waktu
+ngadepin: hadap
+ngehadapin: hadap
+hadiir: hadir
+hadirin: hadir
+ahaha: haha
+hey: hai
+hal: halaman
+halam: halaman
+laman: halaman
+hallo: halo
+hello: halo
+mengahambat: hambat
+mengambat: hambat
+menghabat: hambat
+menghambat: hambat
+menghmbat: hambat
+meperhambat: hambat
+mnghmbat: hambat
+ngehambat: hambat
+terhabad: hambat
+menghabur: hambur
+ngambur: hambur
+ampir: hampir
+hampi: hampir
+hmpir: hampir
+ajur: hancur
+ancor: hancur
+ancur: hancur
+hancurre: hancur
+hancuuuur: hancur
+rungkad: hancur
+runtuh: hancur
+cm: hanya
+cma: hanya
+cmn: hanya
+cuman: hanya
+doank: hanya
+hana: hanya
+hnya: hanya
+sekadar: hanya
+skedar: hanya
+apus: hapus
+clear: hapus
+cler: hapus
+delete: hapus
+dihapus: hapus
+dihapusin: hapus
+hps: hapus
+hpus: hapus
+ngapus: hapus
+remove: hapus
+kampang: haram
+arep: harap
+brharap: harap
+hargadirinya: harga ditigal
+dino: hari
+harin: hari
+harj: hari
+hr: hari
+hri: hari
+berharihari: hari hari
+hariha: hari laksana
+harihahnya: hari laksana
+hrh: hari laksana
+haris: harus
+harisdi: harus
+harrusnya: harus
+haru: harus
+harua: harus
+haruse: harus
+harusny: harus
+harusya: harus
+hrs: harus
+hrsnya: harus
+hrus: harus
+hrusny: harus
+hrusnya: harus
+hsrusnya: harus
+kudu: harus
+kudune: harus
+mesti: harus
+musti: harus
+sehararusnya: harus
+shrusnya: harus
+alhasil: hasil
+berhasi: hasil
+berhasilny: hasil
+berhsil: hasil
+brhasil: hasil
+generate: hasil
+hasilny: hasil
+hsil: hasil
+output: hasil
+atensi: hati
+diperhatikan: hati
+perhatikan: hati
+ontran: heboh
+ontranmu: heboh
+he: heh
+stop: henti
+life: hidup
+ijo: hijau
+ilang: hilang
+lost: hilang
+mengghina: hina
+history: histori
+item: hitam
+count: hitung
+dhitung: hitung
+itungan: hitung
+mengitung: hitung
+mnghitung: hitung
+ngitung: hitung
+peehitungan: hitung
+penghitsunya: hitung
+penghitunan: hitung
+quickcount: hitung cepat
+quikcount: hitung cepat
+tungsura: hitung suara
+hhhhm: hm
+hmz: hm
+maho: homo
+hosting: host
+assosiastid: hubung
+brhubungan: hubung
+hubungin: hubung
+menyakut: hubung
+hubad: hubungan angkatan darat
+humas: hubungan masyarakat
+bu: ibu
+buk: ibu
+ibuk: ibu
+bumil: ibu hamil
+ibukyg: ibu yang
+ngide: ide
+identikasi: identifikasi
+ikt: ikut
+ikutin: ikut
+menguti: ikut
+ngikuti: ikut
+ngikutin: ikut
+himbauan: imbau
+imingi: iming
+import: impor
+inport: import
+imoet: imut
+imho: in my humble opinion
+nginep: inap
+ind: indonesia
+indo: indonesia
+indonesi: indonesia
+isndonesia: indonesia
+konoha: indonesia
+wakanda: indonesia
+im: indosat
+infoin: info
+imformasi: informasi
+info: informasi
+aiti: informasi dan teknologi
+it: informasi dan teknologi
+ite: informasi dan teknologi
+itnya: informasi dan teknologi
+fyi: informasi untuk anda
+infra: infrastruktur
+peringatannya: ingat
+peringatanya: ingat
+kepengen: ingin
+mo: ingin
+mu: ingin
+mw: ingin
+nak: ingin
+pengen: ingin
+pengennya: ingin
+pengin: ingin
+pingin: ingin
+pinginnya: ingin
+kebelet: ingin kali
+monangis: ingin tangis
+ancen: ini
+ieu: ini
+iki: ini
+inih: ini
+inimah: ini
+inimh: ini
+inis: ini
+inisih: ini
+inj: ini
+inni: ini
+iyeu: ini
+ki: ini
+ni: ini
+nie: ini
+uni: ini
+anisialisasi: inisialisasi
+diinisilasasi: inisialisasi
+inalisasi: inisialisasi
+inalisasinya: inisialisasi
+inelisasi: inisialisasi
+inialisasi: inisialisasi
+iniliasasi: inisialisasi
+iniliasi: inisialisasi
+inilisasi: inisialisasi
+inilisiasi: inisialisasi
+inisalisasi: inisialisasi
+inisial: inisialisasi
+inisialiasi: inisialisasi
+inisialilasi: inisialisasi
+inisialisaai: inisialisasi
+inisialisai: inisialisasi
+inisialisali: inisialisasi
+inisialisanya: inisialisasi
+inisialisasai: inisialisasi
+inisialisasinya: inisialisasi
+inisialosasinya: inisialisasi
+inisialusasi: inisialisasi
+inisiasi: inisialisasi
+inisilaisasi: inisialisasi
+inisilasi: inisialisasi
+inisiliasi: inisialisasi
+inisilisasi: inisialisasi
+insalasi: inisialisasi
+insialisasai: inisialisasi
+insialisasi: inisialisasi
+insiliasasi: inisialisasi
+instilisasi: inisialisasi
+isialisasi: inisialisasi
+mengitifikasi: inisialisasi
+terinisialisai: inisialisasi
+inovatif: inovasi
+trobosan: inovasi
+diinput: input
+diinpuy: input
+entri: input
+entries: input
+inputan: input
+kimput: input
+mengimfut: input
+menginput: input
+nginput: input
+penginputan: input
+penginputannya: input
+ig: instagram
+instant: instan
+intansi: instansi
+intruksi: instruksi
+insha: insyaallah
+insya: insyaallah
+insyallah: insyaallah
+integration: integrasi
+teregriatasi: integrasi
+terinteritag: integrasi
+keintrgritasan: integritas
+inteernal: internal
+connection: internet
+hitspot: internet
+hostpot: internet
+hotspot: internet
+internetnya: internet
+jar: internet
+jariangan: internet
+jaring: internet
+jaringan: internet
+jaringannya: internet
+jaringanya: internet
+jringan: internet
+jrinya: internet
+kouta: internet
+kuata: internet
+kuota: internet
+qouta: internet
+quota: internet
+tethering: internet
+wifi: internet
+ngebully: intimidasi
+instropeksi: introspeksi
+ip: iphone
+ipone: iphone
+envy: iri
+isiny: isi
+mngisi: isi
+ngisi: isi
+ngisinya: isi
+bini: istri
+hoax: isu bohong
+iti: itu
+itumah: itu
+kae: itu
+itugagal: itu gagal
+ituajah: itu saja
+eya: iya
+ia: iya
+iyala: iya lah
+enable: izin
+ijin: izin
+ijingkan: izin
+dijadiin: jadi
+jad: jadi
+jadiin: jadi
+jd: jadi
+jdi: jadi
+jdinya: jadi
+jdnya: jadi
+tarjadinya: jadi
+terjadai: jadi
+terjdi: jadi
+trjadi: jadi
+trjdi: jadi
+jdikan: jadikan
+jaim: jaga image
+imba: jago sekali
+jkt: jakarta
+jaktim: jakarta timur
+bejalan: jalan
+jalanin: jalan
+jalanna: jalan
+jalanya: jalan
+jalur: jalan
+mnjlankan: jalan
+ngejalanin: jalan
+run: jalan
+dijapri: jalur pribadi
+bejam: jam
+beriam: jam
+jama: jam
+jem: jam
+jm: jam
+ngejamin: jamin
+qa: jamin kualitas
+jkn: jamin sehat nasional
+iangan: jangan
+jagan: jangan
+jagn: jangan
+jamgan: jangan
+janagan: jangan
+janga: jangan
+jangab: jangan
+jangam: jangan
+jangan: jangan
+jangn: jangan
+jgan: jangan
+jgn: jangan
+jgnkan: jangan
+jnagn: jangan
+jng: jangan
+jngan: jangan
+jngn: jangan
+jngnlaah: jangan
+ojo: jangan
+eman: jangan sampai
+jnj: janji
+jablay: jarang dibelai
+fingert: jari
+ginger: jari
+jarilah: jari
+pinger: jari
+pinjer: jari
+jariwarga: jari warga
+network: jaring
+jatohnya: jatuh
+jauhhari: jauh hari
+afaik: jauh yang saya tahu
+jabawannya: jawab
+jawabannnya: jawab
+jwbn: jawab
+freze: jebak
+ngestuck: jebak
+nyetuk: jebak
+sruck: jebak
+stack: jebak
+stak: jebak
+stuck: jebak
+clarity: jelas
+danta: jelas
+genah: jelas
+jels: jelas
+jes: jelas
+jlas: jelas
+jllas: jelas
+jls: jelas
+penjelasanny: jelas
+bapuk: jelek
+bluk: jelek
+buluk: jelek
+elek: jelek
+gembel: jelek
+jeleek: jelek
+jellek: jelek
+jlek: jelek
+kentang: jelek
+terok: jelek
+uwelek: jelek
+njelimet: jelimet
+jengekl: jengkel
+jijay: jijik
+if: jika
+jk: jika
+kika: jika
+jikalau: jika kalau
+jikallau: jika kalau
+djiwa: jiwa
+joran: jor
+didagangakan: jual
+selernya: jual
+judionlen: judi online
+judol: judi online
+jg: juga
+jga: juga
+jua: juga
+jug: juga
+jugal: juga
+ogeh: juga
+benarjujur: jujur
+jurdil: jujur adil
+jubir: juru bicara
+jutru: justru
+jt: juta
+jtaan: juta
+jtan: juta
+kabarin: kabar
+kab: kabupaten
+blur: kabur
+buram: kabur
+burem: kabur
+bureng: kabur
+ngeblur: kabur
+kacauuuuiu: kacau
+keos: kacau
+ngaco: kacau
+ngaur: kacau
+ngetrol: kacau
+prank: kacau
+sangsot: kacau
+kdg: kadang
+kedang: kadang
+terkadang: kadang
+sekedar: kadar
+mak jang: kaget
+akah: kah
+kh: kah
+tah: kah
+ka: kakak
+kak: kakak
+kaka: kakak
+ceu: kakak perempuan
+kibus: kaki busuk
+klh: kalah
+kslah: kalah
+ngalahin: kalah
+nglah: kalah
+kalng: kalang
+kal: kalau
+kalaupun: kalau
+kalaw: kalau
+kalay: kalau
+kalo: kalau
+kalok: kalau
+kalou: kalau
+kalu: kalau
+kl: kalau
+klaau: kalau
+klau: kalau
+klo: kalau
+kloe: kalau
+klok: kalau
+klopun: kalau
+klou: kalau
+klu: kalau
+klw: kalau
+lw: kalau
+bisi: kalau kalau
+berkakali: kali
+kalih: kali
+kli: kali
+sekli: kali
+skali: kali
+skli: kali
+skliny: kali
+syekali: kali
+x: kali
+kelen: kalian
+klian: kalian
+kalsel: kalimantan selatan
+calculator: kalkulator
+camera: kamera
+camerannya: kamera
+cameranya: kamera
+kamara: kamera
+kamer: kamera
+kamerane: kamera
+kameranya: kamera
+kamernya: kamera
+kemera: kamera
+kmera: kamera
+widecamera: kamera lebar
+kapi: kami
+kmi: kami
+katrok: kampungan
+kmps: kampus
+koe: kamu
+you: kamu
+kbbi: kamus besar bahasa indonesia
+kam: kan
+kn: kan
+ktr: kantor
+kanwil: kantor wilayah
+ngantuk: kantuk
+ngantuknya: kantuk
+bilamana: kapan
+kpan: kapan
+kapt: kapten
+karbitan: karbit
+coalnya: karena
+dikarekan: karena
+dikrnkan: karena
+grgr: karena
+kaeena: karena
+karan: karena
+karenan: karena
+karna: karena
+karnah: karena
+karnakan: karena
+kerana: karena
+kerena: karena
+kerna: karena
+krana: karena
+krn: karena
+krna: karena
+perkars: karena
+soale: karena
+soalny: karena
+soalnys: karena
+solanya: karena
+ktp: kartu tanda duduk
+karuan: karu
+kasaaaaaaaaar: kasar
+kash: kasih
+kasiaaan: kasih
+kasiaan: kasih
+kasihan: kasih
+kasiiiaaaaaaaaaan: kasih
+kasing: kasih
+kesian: kasih
+ksh: kasih
+ksih: kasih
+lasih: kasih
+ngasih: kasih
+sakno: kasih
+kasimasuk: kasih masuk
+spil: kasih tahu
+kacian: kasihan
+dikatain: kata
+kantanyah: kata
+katany: kata
+katanya: kata
+katnya: kata
+kta: kata
+ktanya: kata
+ktnya: kata
+aspord: kata sandi
+assword: kata sandi
+faspord: kata sandi
+faspwort: kata sandi
+fasswoad: kata sandi
+faswodnya: kata sandi
+fasword: kata sandi
+fw: kata sandi
+oaswird: kata sandi
+paaword: kata sandi
+parword: kata sandi
+pasaod: kata sandi
+pasdword: kata sandi
+pasfor: kata sandi
+paspord: kata sandi
+pasport: kata sandi
+passnya: kata sandi
+passoword: kata sandi
+passsword: kata sandi
+passw: kata sandi
+passwod: kata sandi
+passwodnya: kata sandi
+password: kata sandi
+passwordnya: kata sandi
+pasw: kata sandi
+pasward: kata sandi
+paswewrd: kata sandi
+paswoard: kata sandi
+paswod: kata sandi
+paswode: kata sandi
+paswodnya: kata sandi
+pasword: kata sandi
+paswordnya: kata sandi
+paswornya: kata sandi
+paswort: kata sandi
+paswot: kata sandi
+paswowr: kata sandi
+paswrd: kata sandi
+paswword: kata sandi
+pqsword: kata sandi
+pswd: kata sandi
+psword: kata sandi
+pswrd: kata sandi
+pw: kata sandi
+pwd: kata sandi
+pwnya: kata sandi
+sandi: kata sandi
+ktny: katanya
+kimpoi: kawin
+tajir: kaya
+kenya: kayak
+kayanya: kayaknya
+kykny: kayanya
+k: ke
+le: ke
+teng: ke
+kamtib: keamanan dan ketertiban
+kamtibmas: keamanan dan ketertiban masyarakat
+kebon: kebun
+kec: kecamatan
+laka: kecelakaan
+mengecewaka: kecewa
+mengngecewakan: kecewa
+keculai: kecuali
+exp: kedaluwarsa
+kadaluarsa: kedaluwarsa
+kadarluarsa: kedaluwarsa
+kedaluarsa: kedaluwarsa
+kedubes: kedutaan besar
+kgiatan: kegiatan
+dzolim: kejam
+kejer: kejar
+kejurnas: kejuaraan nasional
+kalas: kelas
+kaliber: kelas
+kelaaaassa: kelas
+kelaz: kelas
+sekelas: kelas
+sklas: kelas
+sklelas: kelas
+keliatan: kelihatan
+klinci: kelinci
+kelolak: kelola
+ngelola: kelola
+gurup: kelompok
+kkps: kelompok selenggara pungut suara
+kpps: kelompok selenggara pungut suara
+kppsny: kelompok selenggara pungut suara
+kppsnya: kelompok selenggara pungut suara
+kps: kelompok selenggara pungut suara
+kloter: kelompok terbang
+aut: keluar
+kelogout: keluar
+keluarn: keluar
+kelur: keluar
+kluar: keluar
+kluaran: keluar
+kluer: keluar
+logot: keluar
+logout: keluar
+logoutnya: keluar
+loguot: keluar
+logut: keluar
+ngeluarin: keluar
+ngluarin: keluar
+ot: keluar
+out: keluar
+outlah: keluar
+singout: keluar
+tekeluar: keluar
+terlogout: keluar
+kluarga: keluarga
+complain: keluh
+mengeluh: keluh
+ngeluh: keluh
+kel: kelurahan
+kmn: kemana
+kmari: kemari
+kemaren: kemarin
+kmaren: kemarin
+kmarin: kemarin
+kmren: kemarin
+kmrin: kemarin
+kmrn: kemarin
+kemarinsebelum: kemarin belum
+kmbli: kembali
+rollback: kembali
+mengembngkn: kembang
+kemudia: kemudian
+kmdian: kemudian
+kmudian: kemudian
+dikenali: kenal
+mengenali: kenal
+angpa: kenapa
+kanapa: kenapa
+kenaap: kenapa
+kenap: kenapa
+kenapah: kenapa
+kenapasih: kenapa
+kenpa: kenapa
+kenph: kenapa
+kepana: kenapa
+kna: kenapa
+knap: kenapa
+knapa: kenapa
+knapah: kenapa
+knp: kenapa
+knpa: kenapa
+knpasih: kenapa
+kunaon: kenapa
+mengapa: kenapa
+mngpa: kenapa
+napa: kenapa
+ngapa: kenapa
+why: kenapa
+kenala: kendala
+qc: kendali kualitas
+ranmor: kendaraan bermotor
+kpada: kepada
+kpd: kepada
+bala: kepala
+pala: kepala
+kabag: kepala bagian
+kadit: kepala direktorat
+kadiv: kepala divisi
+kasat: kepala satuan
+kepsek: kepala sekolah
+kasubbag: kepala subbagian
+kasubbid: kepala subbidang
+kptsan: keputusan
+hardcore: keras
+kekeuh: keras kepala
+cadas: keren
+dkerjain: kerja
+gawe: kerja
+job: kerja
+jobdes: kerja
+jobs: kerja
+joob: kerja
+kerjaanya: kerja
+kerjane: kerja
+kerjian: kerja
+kerjo: kerja
+krja: kerja
+merngerjakanya: kerja
+ngerjain: kerja
+ngerjainnya: kerja
+pekerjaaan: kerja
+pekerjana: kerja
+pkerjaan: kerja
+pkrjaan: kerja
+prkerjaan: kerja
+work: kerja
+works: kerja
+bagusjob: kerja bagus
+goodjob: kerja bagus
+bekerjasama: kerja sama
+kerjasama: kerja sama
+kerjasamanya: kerja sama
+sinergi: kerjasama
+gedheg: kesal
+gemes: kesal
+geram: kesal
+greget: kesal
+huuf: kesal
+huuuffffft: kesal
+huuh: kesal
+huuuuh: kesal
+kesel: kesal
+ngeselin: kesal
+kesan: kesan
+kesany: kesan
+kesanya: kesan
+terkesan: kesan
+kesbang: kesatuan bangsa
+kesra: kesejahteraan rakyat
+ketauan: ketahuan
+ktmu: ketemu
+ngetik: ketik
+dsaat: ketika
+jetika: ketika
+katika: ketika
+ktka: ketika
+kwtika: ketika
+pas: ketika
+pz: ketika
+when: ketika
+dikawatirkan: khawatir
+hawatir: khawatir
+kawatir: khawatir
+kawatirnya: khawatir
+menghawatirkan: khawatir
+hususnya: khusus
+hususnys: khusus
+khusunya: khusus
+skian: kian
+kb: kilobita
+km: kilometer
+kirain: kira
+sekira: kira
+sekirannya: kira
+sekiranya: kira
+kiraknapa: kira kenapa
+disabmit: kirim
+kirimin: kirim
+krim: kirim
+krm: kirim
+mensubmit: kirim
+ngesubmit: kirim
+ngirim: kirim
+post: kirim
+posting: kirim
+postingan: kirim
+submit: kirim
+sumbit: kirim
+kjta: kita
+kt: kita
+klasmen: klasemen
+client: klien
+klick: klik
+menklik: klik
+ngeklik: klik
+tap: klik
+autoklik: klik otomatis
+code: kode
+coding: kode
+codingan: kode
+ngoding: kode
+ngodingnya: kode
+barcode: kode batang
+ko: kok
+kog: kok
+koh: kok
+koook: kok
+koq: kok
+kox: kok
+kq: kok
+qo: kok
+collab: kolaborasi
+comen: komentar
+coment: komentar
+command: komentar
+comment: komentar
+komen: komentar
+komenan: komentar
+komennya: komentar
+koment: komentar
+komentar: komentar
+ulas: komentar
+kpk: komisi berantas korupsi
+komdis: komisi disiplin
+kekpu: komisi pilih umum
+kpu: komisi pilih umum
+kpuku: komisi pilih umum
+kpunya: komisi pilih umum
+pku: komisi pilih umum
+kpumelayani: komisi pilih umum layan
+kpuperluberbenah: komisi pilih umum perlu baik
+kompatibilitas: kompatibel
+kompatible: kompatibel
+kompetibel: kompatibel
+kompetible: kompatibel
+komplen: komplain
+komplin: komplain
+dikompres: kompres
+kompresi: kompres
+kompi: komputer
+komtiong: komunis Tiongkok
+komsov: komunis sovyet
+kondisional: kondisi
+kosndikan: kondisi
+konektion: koneksi
+config: konfigurasi
+terkomfirmasi: konfirmasi
+kosentrasi: konsentrasi
+konjen: konsulat jenderal
+konsum: konsumsi
+kontestasi: kontes
+ngopi: kopi
+kopdar: kopi darat
+kor: korupsi
+korapsi: korupsi
+korup: korupsi
+blang: kosong
+blank: kosong
+kopong: kosong
+kosongin: kosong
+lowong: kosong
+luang: kosong
+ngosongin: kosong
+kodya: kota madya
+box: kotak
+eek: kotor
+podol: kotor
+sheet: kotor
+taek: kotor
+tai: kotor
+taik: kotor
+tain: kotor
+tatai: kotor
+telek: kotor
+tembelek: kotor
+tahi: kotoran
+kuaalitas: kualitas
+kualitanya: kualitas
+kualitasnyya: kualitas
+kualits: kualitas
+kualtas: kualitas
+kualtisx: kualitas
+kuliats: kualitas
+kulitas: kualitas
+kwalitas: kualitas
+mutu: kualitas
+uasai: kuasa
+kuaaaat: kuat
+kuatin: kuat
+poweful: kuat
+powernya: kuat
+ngeceng: kumpul bareng bareng
+kongkow: kumpul bareng teman teman
+key: kunci
+keycloack: kunci
+kuncina: kunci
+lock: kunci
+ngunci: kunci
+scretkey: kunci rahasia
+kekeurangan: kurang
+kekuranganya: kurang
+kekurnganya: kurang
+kekurngn: kurang
+kkurangan: kurang
+kuranh: kurang
+kureng: kurang
+kurung: kurang
+mines: kurang
+minim: kurang
+minus: kurang
+reduce: kurang
+kudet: kurang baru
+kurleb: kurang lebih
+kuper: kurang pergaulan
+menguras: kuras
+nguras: kuras
+berlebel: label
+ngeladenin: laden
+gleag: lag
+lagging: lag
+leg: lag
+negalag: lag
+ngelag: lag
+ngelagnya: lag
+ngeleg: lag
+ngelek: lag
+nglag: lag
+nglegnya: lag
+lagih: lagi
+lagiy: lagi
+lg: lagi
+lgi: lagi
+selagi: lagi
+hla: lah
+la: lah
+laaah: lah
+laen: lain
+lainya: lain
+lekong: laki laki
+ha: laksana
+palaksanaan: laksana
+pelak: laksana
+pelaksaan: laksana
+pelaksanaanya: laksana
+pelaksanaanyah: laksana
+pelksanaannya: laksana
+dilakuin: laku
+dilakukukan: laku
+dlakukan: laku
+lakuin: laku
+melkukan: laku
+terllalu: lalu
+terllau: lalu
+terllu: lalu
+trlalu: lalu
+traffic: lalu lintas
+trafic: lalu lintas
+terlalumemaksakan: lalu paksa
+klamaan: lama
+laaama: lama
+laammma: lama
+lamaanya: lama
+lma: lama
+luama: lama
+lwma: lama
+slm: lama
+ikon: lambang
+iemot: lambat
+kelemotan: lambat
+kelemotanya: lambat
+keong: lambat
+lalod: lambat
+lalot: lambat
+lambaaaat: lambat
+lamban: lambat
+lanbat: lambat
+leemmmooot: lambat
+leemot: lambat
+lelet: lambat
+lemmot: lambat
+lemo: lambat
+lemod: lambat
+lemooot: lambat
+lemoot: lambat
+lemot: lambat
+lemote: lambat
+lemotnya: lambat
+lot: lambat
+macet: lambat
+mampet: lambat
+mancet: lambat
+memeprlambat: lambat
+memperkambat: lambat
+meperlambat: lambat
+mmperlambat: lambat
+siput: lambat
+slow: lambat
+terlambat: lambat
+lamp: lampiran
+flash: lampu kilat
+flashnya: lampu kilat
+flasnya: lampu kilat
+kelancarannya: lancar
+kelancaranya: lancar
+klancaran: lancar
+laancar: lancar
+lancan: lancar
+langcar: lancar
+lncar: lancar
+lncr: lancar
+lanud: landasan udara
+customer: langgan
+angkah: langkah
+lngkah: langkah
+selangkah: langkah
+step: langkah
+laangsung: langsung
+lanfsung: langsung
+langsg: langsung
+langsng: langsung
+langusng: langsung
+lansung: langsung
+lgs: langsung
+lgsg: langsung
+lngsng: langsung
+lngsung: langsung
+lnsng: langsung
+lsg: langsung
+luber: langsung umum bebas rahasia
+continiu: lanjut
+continue: lanjut
+lanjutin: lanjut
+ljut: lanjut
+lnjuti: lanjut
+next: lanjut
+selanjunya: lanjut
+lansia: lanjut usia
+dilapngan: lapang
+dilapngn: lapang
+lapngn: lapang
+berlapis: lapis
+lap: lapor
+report: lapor
+lapto: laptop
+leptop: laptop
+latgab: latihan gabungan
+ngelawak: lawak
+lwn: lawan
+kelayakanya: layak
+selayakna: layak
+cs: layan langgan
+lyr: layar
+screen: layar
+ultawide: lebar
+ultrawide: lebar
+ultrawidenya: lebar
+wide: lebar
+bandwidth: lebar pita
+bandwidthnya: lebar pita
+bandwith: lebar pita
+kebih: lebih
+lbh: lebih
+lbih: lebih
+lebuh: lebih
+leih: lebih
+telebih: lebih
+trlebih: lebih
+mending: lebih baik
+maladak: ledak
+meledak: ledak
+legend: legends
+leumah: lemah
+soak: lemah
+lapas: lembaga pemasyarakatan
+overtime: lembur
+lgkp: lengkap
+los: lepas
+belepotan: lepot
+peletakan: letak
+by: lewat
+over: lewat
+skip: lewat
+overload: lewat batas
+lbur: libur
+keliatanya: lihat
+kliatan: lihat
+liat: lihat
+mandang: lihat
+ngelihat: lihat
+double: lipat ganda
+ngelog: log
+dialogis: logis
+hlo: loh
+laah: loh
+lh: loh
+lha: loh
+lho: loh
+lok: loh
+local: lokal
+alokasi: lokasi
+mlorot: lorot
+luarbiasa: luar biasa
+dperluas: luas
+badut: lucu
+kocaak: lucu
+kocag: lucu
+kocak: lucu
+kocaq: lucu
+lawak: lucu
+lawk: lucu
+lol: lucu
+lucunya: lucu
+ngakak: lucu
+terluka: luka
+mayan: lumayan
+dijajakan: luncur
+dikomersilkan: luncur
+dilaunching: luncur
+dilauncing: luncur
+diluncurin: luncur
+dipublish: luncur
+direlis: luncur
+distribusi: luncur
+edar: luncur
+komersialisasi: luncur
+launch: luncur
+launching: luncur
+launchingkan: luncur
+launcing: luncur
+lonching: luncur
+louncing: luncur
+luncurin: luncur
+mluncur: luncur
+pasar: luncur
+pubik: luncur
+publikasi: luncur
+publis: luncur
+publisasikan: luncur
+publish: luncur
+realese: luncur
+release: luncur
+rilis: luncur
+terbit: luncur
+forgot: lupa
+lupapaswod: lupa kata sandi
+maap: maaf
+maf: maaf
+mf: maaf
+mff: maaf
+sori: maaf
+sorry: maaf
+mabok: mabuk
+brmacam: macam
+macem: macam
+macqm: macam
+mcem: macam
+mcm: macam
+mcmap: macam apa
+maggang: magang
+ma: mah
+mh: mah
+mehong: mahal
+milis: mailing list
+maen: main
+played: main
+mahatma: maju sehat bersama
+makanya: maka
+mangkanya: maka
+mamam: makan
+mkn: makan
+magabut: makan gaji buta
+mt: makan teman
+calo: makelar
+markus: makelar kasus
+kian: makin
+majin: makin
+mangkin: makin
+mkin: makin
+mqkin: makin
+semaik: makin
+semaki: makin
+smkin: makin
+micro: makro
+dimaksimalin: maksimal
+dimaxsimalkan: maksimal
+maksimalin: maksimal
+maksiml: maksimal
+maksmil: maksimal
+maximal: maksimal
+maximalnya: maksimal
+maximilian: maksimal
+maksdnya: maksud
+maksudnyah: maksud
+maksutnya: maksud
+mksdnya: maksud
+mksudnya: maksud
+mahalh: malah
+makh: malah
+mala: malah
+malaha: malah
+malahlan: malah
+malak: malah
+malh: malah
+mlah: malah
+mlahan: malah
+mlh: malah
+mlhan: malah
+palah: malah
+palahan: malah
+plh: malah
+malem: malam
+maleman: malam
+malm: malam
+mlam: malam
+mlm: malam
+semalem: malam
+semlm: malam
+smlem: malam
+smlm: malam
+smlman: malam
+males: malas
+malesin: malas
+mls: malas
+magel: malas gerak
+maluin: malu
+mampi: mampu
+mmpu: mampu
+dikemanain: mana
+mama: mana
+bermamfaat: manfaat
+keberanfaatan: manfaat
+manipulatif: manipulasi
+manies: manis
+ex: mantan
+awesome: mantap
+edan: mantap
+edhan: mantap
+gg: mantap
+joooos: mantap
+jooos: mantap
+jos: mantap
+josd: mantap
+joss: mantap
+joz: mantap
+mamtaf: mantap
+mamtap: mantap
+manatap: mantap
+mangap: mantap
+manntaps: mantap
+manrap: mantap
+manraps: mantap
+mantaaaaaap: mantap
+mantaaaap: mantap
+mantaaab: mantap
+mantaaap: mantap
+mantaab: mantap
+mantaap: mantap
+mantab: mantap
+mantaf: mantap
+mantao: mantap
+mantapin: mantap
+mantapl: mantap
+mantaps: mantap
+mantav: mantap
+mantep: mantap
+mantsp: mantap
+manttep: mantap
+mantup: mantap
+matap: mantap
+mntap: mantap
+mtap: mantap
+muaaaantab: mantap
+muantap: mantap
+muantappo: mantap
+paten: mantap
+tooooooooop: mantap
+top: mantap
+mantul: mantap betul
+mmbantu: mantu
+manua: manual
+manulan: manual
+murka: marah
+ngomel: marah
+mabes: markas besar
+masbro: mas
+masse: mas
+masseh: mas
+maszeh: mas
+masah: masa
+masak: masa
+mosok: masa
+msa: masa
+msak: masa
+madesu: masa depan suram
+bermaslaah: masalah
+bermsalah: masalah
+issue: masalah
+kemdala: masalah
+kendala: masalah
+kndal: masalah
+kndala: masalah
+masalahe: masalah
+masalhnya: masalah
+maslahnya: masalah
+maslh: masalah
+msalah: masalah
+mslah: masalah
+mslhnya: masalah
+perkara: masalah
+permasalahanyya: masalah
+permasalahn: masalah
+permasalahnnya: masalah
+permaslhn: masalah
+problem: masalah
+problematik: masalah
+terkedala: masalah
+trabel: masalah
+trobel: masalah
+trobelnya: masalah
+troble: masalah
+trouble: masalah
+troublenya: masalah
+trubel: masalah
+keneh: masih
+maaih: masih
+madih: masih
+mash: masih
+masik: masih
+masjh: masih
+msh: masih
+msi: masih
+msih: masih
+kemasing: masing
+masal: massal
+dilogin: masuk
+diloginkan: masuk
+dimasukin: masuk
+dimsukkn: masuk
+dmasukin: masuk
+in: masuk
+innya: masuk
+lagin: masuk
+lgin: masuk
+ligin: masuk
+loggin: masuk
+logging: masuk
+loghin: masuk
+logiin: masuk
+logik: masuk
+logiknya: masuk
+login: masuk
+logine: masuk
+loging: masuk
+logingnya: masuk
+loginkan: masuk
+loginmya: masuk
+loginnya: masuk
+loginya: masuk
+lojin: masuk
+loogin: masuk
+maauk: masuk
+maduknya: masuk
+mask: masuk
+masoek: masuk
+masok: masuk
+masu: masuk
+masuh: masuk
+masukanya: masuk
+masukin: masuk
+masukinnya: masuk
+masukkin: masuk
+masukkn: masuk
+masukknya: masuk
+masukny: masuk
+masuknya: masuk
+masukya: masuk
+masul: masuk
+melogin: masuk
+meloginnya: masuk
+memasukan: masuk
+memasuki: masuk
+mlebu: masuk
+msk: masuk
+msuk: masuk
+msukin: masuk
+msuknya: masuk
+sumasukan: masuk
+masukmlagi: masuk lagi
+logingnyamasih: masuk masih
+loginsegala: masuk segala
+masya: masyaallah
+masyaalloh: masyaallah
+masyallah: masyaallah
+masyarkat: masyarakat
+matak: mata
+matiin: mati
+off: mati
+may: mau
+msu: mau
+kepo: mau tahu urusan orang
+mbak: mba
+mba: mbak
+mbokya: mbok
+mb: megabita
+mbps: megabita per detik
+megapixels: megapiksel
+mp: megapiksel
+ngelamar: melamar
+ngeliat: melihat
+emang: memang
+emank: memang
+emg: memang
+emng: memang
+mang: memang
+mank: memang
+memamg: memang
+memnag: memang
+menmang: memang
+mmg: memang
+mmng: memang
+emangnya: memangnya
+memo: memori
+memory: memori
+memmper: memper
+nyiapin: mempersiapkan
+nanam: menanam
+nmenarik: menarik
+nyariin: mencari
+nyicil: mencicil
+meding: mending
+mening: mending
+mnding: mending
+mwnding: mending
+nelfon: menelepon
+gowes: mengayuh sepeda
+huff: mengeluh
+ngelidur: menggigau
+ngisiin: mengisikan
+ngeklaim: mengklaim
+menajdi: menjadi
+menjdi: menjadi
+mnjadi: menjadi
+ngeksis: menjadi eksis
+tengok: menjenguk
+mendal: mental
+kominfo: menteri komunikasi dan informasi
+menkominfo: menteri komunikasi dan informatika
+mntk: mentok
+ngadat: mentok
+ngabuburit: menunggu berbuka puasa
+nutupin: menutupi
+nembak: menyatakan cinta
+tengil: menyebalkan
+nyekar: menyekar
+nyiram: menyiram
+ngerampok: merampok
+merk: merek
+merka: mereka
+mskpn: meskipun
+miliyaran: miliar
+milyar: miliar
+milyaran: miliar
+mnggu: minggu
+diminimalisir: minimal
+meminimalisir: minimal
+minimalisir: minimal
+minimum: minimal
+meminilisir: minimalisir
+mina: minta
+mintak: minta
+mita: minta
+mnta: minta
+request: minta
+requst: minta
+mikol: minuman beralkohol
+miker: minuman keras
+migas: minyak dan gas bumi
+sebelas dua belas: mirip
+andai: misal
+semisaal: misal
+smisal: misal
+simiskin: miskin
+ml: mobile legends
+mobilelgen: mobile legends
+modalin: modal
+moderenisasi: modern
+modernisasi: modern
+mdhwn: moga
+mg: moga
+semog: moga
+semogah: moga
+smg: moga
+smga: moga
+smoga: moga
+goodluck: moga untung
+kindly: mohon
+mhn: mohon
+mhon: mohon
+mobon: mohon
+mohan: mohon
+mohin: mohon
+mohob: mohon
+mohol: mohon
+mon: mohon
+moment: momen
+momentum: momen
+moge: motor gede
+emmuat: muat
+mubasir: mubazir
+dipermudh: mudah
+gampang: mudah
+gmpang: mudah
+kmudahan: mudah
+leluasa: mudah
+mdh: mudah
+memeprmudah: mudah
+mempeermudah: mudah
+memperdah: mudah
+mempermuda: mudah
+mempermudah: mudah
+mempermudan: mudah
+mempermudsh: mudah
+mempermufah: mudah
+mempernudah: mudah
+memprmudah: mudah
+mempudah: mudah
+memudahkn: mudah
+memudhkan: mudah
+mepermudah: mudah
+mmempermudah: mudah
+mmpermudah: mudah
+mmprmudah: mudah
+mpermudah: mudah
+mudahn: mudah
+mudan: mudah
+mundah: mudah
+ngringanin: mudah
+pelancar: mudah
+permudab: mudah
+xhan: mudah
+mlai: mulai
+mlu: mulu
+seamles: mulus
+semles: mulus
+congor: mulut
+muna: munafik
+mncul: muncul
+munculah: muncul
+munculin: muncul
+nongol: muncul
+mgkin: mungkin
+mgkn: mungkin
+mngkin: mungkin
+mukin: mungkin
+mungin: mungkin
+pengungutan: mungut
+gumoh: muntah
+muntaber: muntah dan berak
+season: musim
+musuhbesar: musuh besar
+mubes: musyawarah besar
+musda: musyawarah daerah
+muker: musyawarah kerja
+munas: musyawarah nasional
+munaslub: musyawarah nasional luar biasa
+dinaikin: naik
+naikin: naik
+begajulan: nakal
+jenenge: nama
+name: nama
+nma: nama
+uname: nama guna
+unsername: nama guna
+usarname: nama guna
+usename: nama guna
+username: nama guna
+usernamenya: nama guna
+usernem: nama guna
+usernmae: nama guna
+usn: nama guna
+usname: nama guna
+usnm: nama guna
+ussername: nama guna
+usurename: nama guna
+usurname: nama guna
+namung: namun
+latter: nanti
+nantimya: nanti
+nantu: nanti
+nati: nanti
+nnt: nanti
+nnti: nanti
+nntinya: nanti
+ntar: nanti
+nti: nanti
+ntr: nanti
+tar: nanti
+napi: narapidana
+napol: narapidana politik
+napza: narkotika, alkohol, psikotropika, dan zat adiktif
+narkoba: narkotika, psikotropika, dan obat terlarang
+nasgor: nasi goreng
+nasip: nasib
+nas: nasional
+nasiaonal: nasional
+national: nasional
+nauzubillah: naudzubillah
+menaungi: naung
+negera: negara
+negeri: negara
+negri: negara
+negriku: negara
+nkri: negara satu republik indonesia
+nekolim: neokolonialisme
+mengadi: ngadi
+ge: nge
+mengerikan: ngeri
+nh: nih
+nich: nih
+niih: nih
+niiih: nih
+nikh: nih
+nikmatin: nikmat
+ngerate: nilai
+ranting: nilai
+rate: nilai
+rating: nilai
+ratingnya: nilai
+ratting: nilai
+reting: nilai
+wort: nilai
+worth: nilai
+mengikatkan: ningkat
+ista: nista
+nmr: nomor
+no: nomor
+nomer: nomor
+nntn: nonton
+nobar: nonton bareng
+alay: norak
+normalin: normal
+normally: normal
+notabennya: notabene
+nonif: notifikasi
+notif: notifikasi
+notifikasi: notifikasi
+notifny: notifikasi
+notifnya: notifikasi
+notiv: notifikasi
+notivikasi: notifikasi
+notulifikasi: notifikasi
+np: now playing
+hy: nya
+na: nya
+nage: nya
+ne: nya
+nx: nya
+ny: nya
+nyah: nya
+nye: nya
+nyo: nya
+xa: nya
+y: nya
+panjer: nyala
+jebule: nyata
+kenyataanya: nyata
+kongkrit: nyata
+konkrit: nyata
+rupa: nyata
+rupanya: nyata
+ternyarta: nyata
+teryanta: nyata
+trnyata: nyata
+chat: obrol
+chatku: obrol
+cht: obrol
+oooooh: oh
+ooh: oh
+o/: oleh
+aoleng: oleng
+omkuh: om
+paman: om
+diomongin: omong
+omongkosong: omong kosong
+btw: omong somong
+ongkir: ongkos kirim
+ngeonline: online
+onlen: online
+onlinekan: online
+operatir: operator
+oprator: operator
+opratos: operator
+ngoptimalin: optimal
+org: orang
+orng: orang
+wong: orang
+oranglain: orang lain
+ortu: orang tua
+orangyg: orang yang
+gebetan: orang yang disuka
+oren: oranye
+ngontak: otak
+aauto: otomatis
+auot: otomatis
+auto: otomatis
+automation: otomatis
+automatis: otomatis
+tomatiskan: otomatis
+otda: otonomi daerah
+oot: out of topic
+bokin: pacar
+memadai: pada
+mmdai: pada
+pad: pada
+pasa: pada
+pd: pada
+pda: pada
+padasaat: pada ketika
+oadahal: padahal
+padaha: padahal
+padahl: padahal
+padal: padahal
+padhahal: padahal
+padhal: padahal
+pahal: padahal
+pdahal: padahal
+pdahl: padahal
+pdh: padahal
+pdhal: padahal
+pdhl: padahal
+pedahal: padahal
+pedalah: padahal
+worit: padan
+pgi: pagi
+dimenegerti: paham
+dollor: paham
+faham: paham
+fahami: paham
+mudeng: paham
+ngarti: paham
+ngerti: paham
+pait: pahit
+expert: pakar
+dipaksaakan: paksa
+dipaksain: paksa
+foce: paksa
+force: paksa
+forced: paksa
+froce: paksa
+makain: paksa
+maksa: paksa
+maksaiin: paksa
+maksain: paksa
+maksainlah: paksa
+maksakan: paksa
+maksaken: paksa
+mekso: paksa
+memksakan: paksa
+mksa: paksa
+ngebet: paksa
+paksain: paksa
+pksakan: paksa
+most: paling
+least: paling sedikit
+dummy: palsu
+kw: palsu
+puanas: panas
+paduannya: pandu
+call: panggil
+stakeholder: pangku penting
+gupek: panik
+panita: panitia
+panwas: panitia awas
+pansus: panitia khusus
+ppk: panitia pilih kecamatan
+pps: panitia pungut suara
+ppsnya: panitia pungut suara
+mamajang: panjang
+pnjg: panjang
+pantes: pantas
+pantesan: pantas
+mantau: pantau
+mantengin: pantau
+pantengin: pantau
+paraaah: parah
+parraaaaah: parah
+terparah: parah
+parte: partai
+pks: partai adil sejahtera
+parpol: partai politik
+sparuh: paruh
+ngepasin: pas
+didonlot: pasang
+didownload: pasang
+diinstal: pasang
+dinstal: pasang
+donload: pasang
+donlod: pasang
+donlot: pasang
+donlotnya: pasang
+donlowrd: pasang
+donwload: pasang
+dounwload: pasang
+dowload: pasang
+dowloadnya: pasang
+dowlod: pasang
+downdload: pasang
+download: pasang
+downloader: pasang
+downloadnha: pasang
+downlod: pasang
+dwnld: pasang
+dwnload: pasang
+dwnlod: pasang
+dwonload: pasang
+dwonlod: pasang
+insatal: pasang
+insralasi: pasang
+instal: pasang
+instalanya: pasang
+instalasi: pasang
+install: pasang
+instalny: pasang
+instalnya: pasang
+insual: pasang
+intal: pasang
+intalasi: pasang
+isntal: pasang
+istal: pasang
+mendonwload: pasang
+mendownload: pasang
+mendwonload: pasang
+menginstal: pasang
+nginstal: pasang
+ngunduh: pasang
+pair: pasang
+penginstalan: pasang
+penginstallan: pasang
+pengintsalan: pasang
+psng: pasang
+terdonload: pasang
+terdowload: pasang
+terdownlod: pasang
+terinstal: pasang
+unduh: pasang
+unstal: pasang
+paslon: pasang calon
+redownload: pasang kembali
+reinstal: pasang kembali
+pasutri: pasangan suami istri
+otp: password satu kali pakai
+mastiin: pasti
+msti: pasti
+pastih: pasti
+pesti: pasti
+pasukaan: pasuk
+pasukan: pasuk
+prajurit: pasuk
+paaayaaaaah: payah
+payaaaah: payah
+payaaah: payah
+payay: payah
+pdfkan: pdf
+pedes: pedas
+care: peduli
+pegel: pegal
+megang: pegang
+pemeliharaanya: pelihara
+piara: pelihara
+pencil: pelosok
+plosok: pelosok
+melototin: pelotot
+bangdes: pembangunan desa
+heters: pembenci
+pmrnth: pemerintah
+pemda: pemerintah daerah
+pemred: pemimpin redaksi
+pelatnas: pemusatan latihan nasional
+cemen: penakut
+curanmor: pencurian kendaraan bermotor
+ceper: pendek
+penjas: pendidikan jasmani
+pndukung: pendukung
+litbang: penelitian dan pengembangan
+mepengaruhi: pengaruh
+ngaruh: pengaruh
+fital: penting
+kpentingan: penting
+krusial: penting
+mentingin: penting
+urgent: penting
+utamain: penting
+vital: penting
+ful: penuh
+memnuhi: penuh
+menbeludak: penuh
+sepenuh: penuh
+ts: penulis
+parahu: perahu
+device: perangkat
+divice: perangkat
+parangkat: perangkat
+perangakat: perangkat
+perangkag: perangkat
+perangkap: perangkat
+perangkt: perangkat
+perengkat: perangkat
+perngkt: perangkat
+hadware: perangkat keras
+hardware: perangkat keras
+hardwer: perangkat keras
+hardwere: perangkat keras
+harward: perangkat keras
+perda: peraturan daerah
+pedenya: percaya diri
+percumah: percuma
+peforma: performa
+perform: performa
+performance: performa
+performancenya: performa
+cabut: pergi
+ngampus: pergi ke kampus
+perhatiin: perhatikan
+hubdar: perhubungan darat
+hubla: perhubungan laut
+prihal: perihal
+memriksa: periksa
+government: perintah
+kepemerintaha: perintah
+mandat: perintah
+pemeerintah: perintah
+pemerintan: perintah
+pemetintah: perintah
+penerintahan: perintah
+pmrintah: perintah
+pmrintahan: perintah
+pemkot: perintah kota
+linmas: perlindungan masyarakat
+berlu: perlu
+mmerlukan: perlu
+perlj: perlu
+prlu: perlu
+uasah: perlu
+usa: perlu
+usah: perlu
+ush: perlu
+punten: permisi
+ever: pernah
+perna: pernah
+pernh: pernah
+prnah: pernah
+hankam: pertahanan dan keamanan
+hansip: pertahanan sipil
+pertam: pertama
+pertamakali: pertama kali
+mesage: pesan
+message: pesan
+order: pesan
+errormassage: pesan eror
+errormessage: pesan eror
+dm: pesan langsung
+pesenan: pesanan
+pswt: pesawat
+map: peta
+berfikir: pikir
+berfikiran: pikir
+difikirkan: pikir
+fikiran: pikir
+mikir: pikir
+mikirin: pikir
+mikirnya: pikir
+mkirnya: pikir
+pikir: pikir
+pikirin: pikir
+pkr: pikir
+posthink: pikir positif
+pixel: piksel
+choose: pilih
+coblos: pilih
+dipelihan: pilih
+memilin: pilih
+milih: pilih
+milihnya: pilih
+oemilihan: pilih
+opsi: pilih
+pelilihan: pilih
+pemeilihan: pilih
+pemelihan: pilih
+pemilahan: pilih
+pemili: pilih
+pemilian: pilih
+pemiliham: pilih
+pmlihan: pilih
+pilbub: pilih kepala daerah
+pilbup: pilih kepala daerah
+pilgub: pilih kepala daerah
+pilkada: pilih kepala daerah
+pilwako: pilih kepala daerah
+pilpres: pilih presiden
+pilrpres: pilih presiden
+ppwk: pilih presiden dan wakil presiden
+ppwp: pilih presiden dan wakil presiden
+dikepemiluan: pilih umum
+dipemilu: pilih umum
+kepemiluan: pilih umum
+oemilu: pilih umum
+pemiku: pilih umum
+pemil: pilih umum
+pemilu: pilih umum
+pemiluh: pilih umum
+pemilunya: pilih umum
+pemiu: pilih umum
+pemulu: pilih umum
+pimilu: pilih umum
+pimulu: pilih umum
+pmilu: pilih umum
+pemilukada: pilih umum kepala daerah
+pileg: pilih umum legislatif
+pilwalkot: pilih umum wali kota
+discan: pindai
+mengscan: pindai
+penscanan: pindai
+scaan: pindai
+scan: pindai
+scand: pindai
+scaning: pindai
+scanne: pindai
+scanner: pindai
+scannya: pindai
+scanya: pindai
+minjam: pinjam
+pinjem: pinjam
+pinjol: pinjam online
+pemirsah: pirsa
+foco: poco
+point: poin
+pkkny: pokok
+poko: pokok
+pokoke: pokok
+mindset: pola pikir
+polantas: polisi lalu lintas
+ponpes: pondok pesantren
+dihp: ponsel
+dixiaomi: ponsel
+gawai: ponsel
+handphone: ponsel
+handphoneku: ponsel
+hape: ponsel
+ho: ponsel
+hp: ponsel
+hpku: ponsel
+hpmu: ponsel
+hpnya: ponsel
+infinix: ponsel
+mobile: ponsel
+oppo: ponsel
+realme: ponsel
+redmi: ponsel
+rog: ponsel
+samsjng: ponsel
+samsung: ponsel
+samsungnya: ponsel
+smartphone: ponsel
+telfon: ponsel
+telp: ponsel
+telpon: ponsel
+tlp: ponsel
+vivo: ponsel
+vivonya: ponsel
+xiaomi: ponsel
+xiomi: ponsel
+xperia: ponsel
+terpontang: pontang
+bokep: porno
+crop: potong
+cropnya: potong
+cut: potong
+motong: potong
+pangkas: potong
+potek: potong
+autocrop: potong otomatis
+programmingnya: pragram
+praktek: praktik
+praktekna: praktik
+pkl: praktik kerja lapang
+prisidenya: presiden
+priben: pribadi
+privat: pribadi
+private: pribadi
+privaye: pribadi
+prinsil: prinsip
+privacy: privasi
+prodak: produk
+product: produk
+kompeten: profesional
+master: profesional
+pro: profesional
+profesionalitas: profesional
+professional: profesional
+suhu: profesional
+ulung: profesional
+profile: profil
+pemrograman: program
+keperoses: proses
+paroses: proses
+pemerosesan: proses
+pemprosesan: proses
+pemrosesan: proses
+peroses: proses
+proc: proses
+procesing: proses
+processing: proses
+processor: proses
+prosesor: proses
+ptoses: proses
+propinsi: provinsi
+prov: provinsi
+pwtopinsi: provinsi
+project: proyek
+projek: proyek
+memuaskan: puas
+public: publik
+pulak: pula
+pp: pulang pergi
+pemunggutan: pungut
+pengumutan: pungut
+memliki: punya
+pny: punya
+pnya: punya
+center: pusat
+lier: pusing
+lieur: pusing
+musingin: pusing
+ngalierken: pusing
+pening: pusing
+peningla: pusing
+psing: pusing
+puing: pusing
+pusieng: pusing
+pusiing: pusing
+puyeng: pusing
+disconect: putus
+rhs: rahasia
+raskin: rakyat miskin
+rambya: ram
+friendly: ramah
+crowded: ramai
+rame: ramai
+xrapat: rapat
+rakor: rapat koordinasi
+feeling: rasa
+merasajan: rasa
+meresa: rasa
+ngerasa: rasa
+ngerasain: rasa
+prasaan: rasa
+rsa: rasa
+serasa: rasa
+mrasankecewa: rasa kecewa
+disrespect: rasa tidak hormat
+atus: ratus
+realist: realistis
+realita: realitas
+realitanya: realitas
+red: redaksi
+ref: referensi
+reg: register
+rehab: rehabilitasi
+ngerekap: rekapitulasi
+ngrekap: rekapitulasi
+ngrekapi: rekapitulasi
+rekap: rekapitulasi
+rekpitulasi: rekapitulasi
+reklamuk: reklamasi
+recomend: rekomendasi
+recomended: rekomendasi
+recommended: rekomendasi
+rekomen: rekomendasi
+rekomended: rekomendasi
+hire: rekrut
+rekrutmen: rekrut
+ngremehin: remeh
+plan: rencana
+planinngnya: rencana
+ngerab: rencana anggar biaya
+rab: rencana anggar biaya
+renstra: rencana strategis
+rendering: render
+serempak: rentak
+serenta: rentak
+serentak: rentak
+serentank: rentak
+setentak: rentak
+srentak: rentak
+belibet: repot
+belit: repot
+berabe: repot
+blabakan: repot
+brabe: repot
+direpotin: repot
+jelimet: repot
+kerepot: repot
+klabakan: repot
+marowet: repot
+memperibet: repot
+memperribet: repot
+merepotka: repot
+meribetkan: repot
+ngerepoti: repot
+ngerepotin: repot
+ngeribetin: repot
+ngeruweti: repot
+ngrepoti: repot
+ngrepotin: repot
+ngribetin: repot
+ngruweti: repot
+ribed: repot
+ribeeeet: repot
+ribeetin: repot
+ribet: repot
+ribetnya: repot
+ribeut: repot
+rieut: repot
+ripuh: repot
+riweh: repot
+riweuh: repot
+rouuuwweeet: repot
+rouwet: repot
+rudet: repot
+ruet: repot
+ruetnya: repot
+rumit: repot
+runyam: repot
+ruwed: repot
+ruweeed: repot
+ruweeet: repot
+ruweet: repot
+ruwet: repot
+ruwibet: repot
+ruyem: repot
+seribet: repot
+tumit: repot
+ri: republik indonesia
+merosahkan: resah
+reskrim: reserse kriminal
+restik: reserse narkotika
+direset: reset
+mereset: reset
+risit: reset
+tereset: reset
+risk: resiko
+official: resmi
+direspon: respon
+drespon: respon
+merespon: respon
+responding: respon
+responnya: respon
+respons: respon
+response: respon
+responya: respon
+rensponsif: responsif
+dihack: retas
+diiretas: retas
+hack: retas
+hacker: retas
+haker: retas
+heck: retas
+hecker: retas
+sadap: retas
+reweeel: rewel
+rejeki: rezeki
+rb: ribu
+noise: ribut
+diridhoi: rida
+breakdown: rinci
+enteng: ringan
+peringan: ringan
+riser: riset
+space: ruang
+robah: rubah
+memudharatkan: rugi
+rruuuggi: rugi
+ruugi: rugi
+ruuugi: rugi
+rt: rukun tetangga
+rw: rukun warga
+rumak: rumah
+rusunawa: rumah susun sewa
+ruko: rumah toko
+berupa: rupa
+bobrok: rusak
+bodol: rusak
+bodolan: rusak
+broken: rusak
+bubrah: rusak
+ruksak: rusak
+rusaak: rusak
+saaat: saat
+brsabar: sabar
+sabaaar: sabar
+sabarin: sabar
+sabarsabar: sabar
+ngeh: sadar
+divalidasi: sah
+falid: sah
+valid: sah
+bershabat: sahabat
+nyaingi: saing
+aaajja: saja
+aaja: saja
+ae: saja
+aj: saja
+aja: saja
+ajah: saja
+ajalah: saja
+aje: saja
+ajh: saja
+ajja: saja
+akha: saja
+ana: saja
+az: saja
+bae: saja
+baen: saja
+ja: saja
+jh: saja
+saj: saja
+sajah: saja
+shaja: saja
+sj: saja
+sja: saja
+wae: saja
+sangkin: saking
+sangking: saking
+nyakitin: sakit
+sakiiit: sakit
+bag: salah
+bermasalahm: salah
+blunder: salah
+bug: salah
+bugnya: salah
+bugs: salah
+case: salah
+disalahin: salah
+incored: salah
+incorrect: salah
+kesahalah: salah
+kesalahn: salah
+melenceng: salah
+miss: salah
+ngbug: salah
+ngebag: salah
+ngebug: salah
+nyalahin: salah
+nyalain: salah
+sala: salah
+salahin: salah
+salh: salah
+slaah: salah
+slah: salah
+slahakn: salah
+slh: salah
+wrong: salah
+salahsatu: salah satu
+salting: salah tingkah
+typo: salah tulis
+lam: salam
+copy: salin
+nyalin: salin
+copas: salin tempel
+ama: sama
+bareng: sama
+bebarengan: sama
+brengan: sama
+brsamaan: sama
+idem: sama
+sam: sama
+same: sama
+sm: sama
+sma: sama
+blas: sama kali
+samasekali: sama kali
+samsek: sama kali
+smsek: sama kali
+connect: sambung
+connectnya: sambung
+konek: sambung
+nyambung: sambung
+sambung: sambung
+ampaas: sampah
+ampas: sampah
+apmpas: sampah
+cac: sampah
+cache: sampah
+cachenya: sampah
+chace: sampah
+chache: sampah
+chance: sampah
+change: sampah
+chece: sampah
+sampaj: sampah
+trash: sampah
+ampe: sampai
+ampk: sampai
+mpe: sampai
+nyampe: sampai
+nyampek: sampai
+samapai: sampai
+samapi: sampai
+samoai: sampai
+sampa: sampai
+sampe: sampai
+sampei: sampai
+sampein: sampai
+sampek: sampai
+smpai: sampai
+smpe: sampai
+smpek: sampai
+siana: sana
+sono: sana
+there: sana
+sandungan: sandung
+amaaaat: sangat
+amat: sangat
+amet: sangat
+asangat: sangat
+baanget: sangat
+babget: sangat
+baget: sangat
+bagt: sangat
+banegt: sangat
+bangat: sangat
+banged: sangat
+bangeeeettz: sangat
+bangeeet: sangat
+bangeet: sangat
+bangetttr: sangat
+bangetz: sangat
+bangt: sangat
+beet: sangat
+benget: sangat
+bet: sangat
+betbetbetbet: sangat
+beut: sangat
+bgd: sangat
+bget: sangat
+bgt: sangat
+bgtz: sangat
+bingits: sangat
+bnaget: sangat
+bnget: sangat
+bngt: sangat
+buanget: sangat
+kali: sangat
+kebangeten: sangat
+pisaaan: sangat
+pisan: sangat
+pol: sangat
+pool: sangat
+poool: sangat
+saangat: sangat
+samgat: sangat
+sanagat: sangat
+sanga: sangat
+sangaat: sangat
+sangan: sangat
+sanggat: sangat
+sengat: sangat
+sgt: sangat
+sngat: sangat
+tenan: sangat
+verry: sangat
+very: sangat
+sampis: sangat sampah
+nyangkut: sangkut
+sante: santai
+sesantuy: santai
+saransaya: saran saya
+sesui: sasuai
+aatu: satu
+atupun: satu
+one: satu
+satuin: satu
+seindo: satu indonesia
+seineonesia: satu indonesia
+satpam: satuan pengamanan
+sodara: saudara
+brur: saudara laki laki
+aing: saya
+aku: saya
+ane: saya
+aq: saya
+ay: saya
+eke: saya
+gua: saya
+gue: saya
+gw: saya
+gwa: saya
+ku: saya
+oe: saya
+q: saya
+sara: saya
+say: saya
+sayah: saya
+sy: saya
+sya: saya
+idk: saya tidak tahu
+ayang: sayang
+sayangkanya: sayang
+syg: sayang
+sayimbar: sayembara
+pnyebab: sebab
+sebabny: sebab
+nyebelin: sebal
+sebel: sebal
+sucks: sebal
+disebarin: sebar
+trsebar: sebar
+sebarluaskan: sebar luas
+sbh: sebuah
+trsebut: sebut
+tsb: sebut
+tsbt: sebut
+scara: secara
+sdgkan: sedang
+sedgkn: sedang
+sdgkn: sedangkan
+available: sedia
+exists: sedia
+exsis: sedia
+mnyrdiakn: sedia
+nyediain: sedia
+sediakn: sedia
+huhu: sedih
+huhuhuhu: sedih
+kesuwen: sedih
+menyedihkkan: sedih
+prihatin: sedih
+sad: sedih
+seih: sedih
+dikit: sedikit
+dkit: sedikit
+dkt: sedikit
+sdikit: sedikit
+sedik: sedikit
+sikit: sedikit
+sgala: segala
+sgla: segala
+segra: segera
+sgera: segera
+soon: segera
+brb: segera kembali
+seginih: segini
+sehing: sehingga
+sehinggal: sehingga
+shg: sehingga
+shingga: sehingga
+semenjak: sejak
+sjk: sejak
+sakli: sekali
+syekallli: sekali
+sekalilagi: sekali lagi
+sklian: sekalian
+bmsekarang: sekarang
+sekar: sekarang
+sekara: sekarang
+sekaraanng: sekarang
+sekarg: sekarang
+sekarnag: sekarang
+sekarng: sekarang
+sekerang: sekarang
+sekrang: sekarang
+sekrg: sekarang
+sekrng: sekarang
+skarang: sekarang
+skarng: sekarang
+skg: sekarang
+skr: sekarang
+skrang: sekarang
+skrg: sekarang
+skrn: sekarang
+skrng: sekarang
+sekolahin: sekolah
+sd: sekolah dasar
+smk: sekolah tengah juru
+smp: sekolah tengah pertama
+mumpung: selagi
+slain: selain
+always: selalu
+sdlalu: selalu
+sellu: selalu
+seslalu: selalu
+slalu: selalu
+sll: selalu
+sllu: selalu
+telalu: selalu
+slma: selama
+slmt: selamat
+saveindo: selamat indonesia
+nyeleksi: seleksi
+kelenggara: selenggara
+penyelanggara: selenggara
+penyelenggaran: selenggara
+babar: selesai
+beres: selesai
+done: selesai
+final: selesai
+kelar: selesai
+nyelesaiin: selesai
+nyelesein: selesai
+penyelesain: selesai
+rampung: selesai
+resolve: selesai
+selesain: selesai
+selsae: selesai
+selsai: selesai
+seselaikan: selesai
+slese: selesai
+sls: selesai
+usai: selesai
+kelarkalau: selesai kalau
+selular: seluler
+overal: seluruh
+seruh: seluruh
+smakin: semakin
+exited: semangat
+ganbate: semangat
+gas: semangat
+gaspol: semangat
+gasssa: semangat
+mangats: semangat
+semgat: semangat
+nyembah: sembah
+sembako: sembilan bahan pokok
+ngumpet: sembunyi
+sementa: sementara
+smentara: sementara
+mugi: semoga
+gws: semoga segera sembuh
+sempet: sempat
+smpat: sempat
+sumpek: sempit
+all: semua
+smia: semua
+smua: semua
+smuanya: semua
+allinp: semua masuk
+everybody: semua orang
+cnenk: senang
+dewe: sendiri
+mandiri: sendiri
+mndiri: sendiri
+sebdiri: sendiri
+sendirj: sendiri
+sendri: sendiri
+sndiri: sendiri
+sndri: sendiri
+sndriny: sendiri
+sendirigk: sendiri tidak
+sengaha: sengaja
+ngentod: senggama
+sendratari: seni drama tari
+seyok: seok
+terseyok: seok
+spd: sepeda
+kanyak: seperti
+kaya: seperti
+kayak: seperti
+kek: seperti
+kekgini: seperti
+koyo: seperti
+koyok: seperti
+ky: seperti
+kya: seperti
+kyak: seperti
+kyake: seperti
+kyaknya: seperti
+kyanya: seperti
+kyk: seperti
+kyknya: seperti
+ngeneki: seperti
+sepert: seperti
+sepertibya: seperti
+sepertiini: seperti
+sepet: seperti
+sepeti: seperti
+seprti: seperti
+sperti: seperti
+spertinya: seperti
+sprt: seperti
+sprti: seperti
+spt: seperti
+spti: seperti
+kayakmana: seperti bagaimana
+kekmana: seperti bagaimana
+kagini: seperti ini
+sepertini: seperti ini
+sept: september
+puh: sepuh
+serabutan: serabut
+nyerah: serah
+serahin: serah
+setor: serah
+serem: seram
+nyerang: serang
+srba: serba
+serbasalah: serba salah
+kerap: sering
+seringkali: sering
+sring: sering
+faq: sering tanya
+seriously: serius
+srius: serius
+pt: sero batas
+certificated: sertifikat
+serifikat: sertifikat
+seritifikat: sertifikat
+serrifikatnya: sertifikat
+sertepikat: sertifikat
+sertificate: sertifikat
+sertifika: sertifikat
+sertifikasi: sertifikat
+sertifikast: sertifikat
+sertifikt: sertifikat
+sertikat: sertifikat
+sertipikat: sertifikat
+sertivikasi: sertifikat
+setifikat: sertifikat
+diserver: server
+diservernya: server
+ervernya: server
+reserver: server
+serfer: server
+serfernya: server
+serve: server
+servermu: server
+servernya: server
+servey: server
+sever: server
+sirver: server
+srverx: server
+service: servis
+nyesel: sesal
+blinger: sesat
+asap: sesegera mungkin
+proper: sesuai
+seseuai: sesuai
+sesuia: sesuai
+stgh: setengah
+stiap: setiap
+se7: setuju
+salom: shalom
+sylom: shalom
+soljum: sholat jumat
+shope: shopee
+syopi: shopee
+shibal: sial
+sue: sial
+suek: sial
+suwek: sial
+kampret: sialan
+diepersiaapakan: siap
+dimatengin: siap
+disiapin: siap
+kesiap: siap
+kesiapan: siap
+mantang: siap
+matamg: siap
+matang: siap
+mateng: siap
+matengin: siap
+matengkan: siap
+persiapak: siap
+persiapin: siap
+persiapnnya: siap
+pesiapin: siap
+prepare: siap
+ready: siap
+siapin: siap
+siyap: siap
+standby: siap
+syap: siap
+sapa: siapa
+sopo: siapa
+siapatau: siapa tahu
+cyber: siber
+cibuk: sibuk
+hecticnya: sibuk kali
+sdik: sidik
+sindik: sidik
+finger: sidik jari
+fingerprinr: sidik jari
+fingerprint: sidik jari
+fingerprintnya: sidik jari
+pingerprin: sidik jari
+sidikjari: sidik jari
+seh: sih
+sh: sih
+sich: sih
+siih: sih
+siiiih: sih
+nyiksa: siksa
+monggo: sila
+silahkan: sila
+keep: simpan
+kesimpen: simpan
+ngesave: simpan
+pemyimpanan: simpan
+save: simpan
+store: simpan
+tersiman: simpan
+persimple: simpel
+simple: simpel
+simulisasi: simulasi
+simulsasi: simulasi
+simulsi: simulasi
+sinetron: sinema elektronik
+ringkas: singkat
+disni: sini
+dsni: sini
+kesini: sini
+singkron: sinkron
+sinkronisasi: sinkron
+signal: sinyal
+singal: sinyal
+sinya: sinyal
+siramin: siramkan
+disirekap: sirekap
+karekap: sirekap
+sibrekap: sirekap
+sierekap: sirekap
+sierkap: sirekap
+sirakap: sirekap
+sireekapb: sirekap
+siregap: sirekap
+sirekab: sirekap
+sirekal: sirekap
+sirekapan: sirekap
+sirekapny: sirekap
+sirekapnya: sirekap
+sirekp: sirekap
+sirikep: sirekap
+sirrkap: sirekap
+sirekaplikasinya: sirekap aplikasi
+sirekaptidaksiap: sirekap tidak siap
+side: sisi
+sisteemnya: sistem
+sistemmya: sistem
+sistemya: sistem
+sistim: sistem
+sitem: sistem
+system: sistem
+systemnya: sistem
+sytem: sistem
+erorsistem: sistem eror
+sso: sistem masuk tunggal
+os: sistem operasi
+sikon: situasi dan kondisi
+sekala: skala
+skla: skala
+so: sok
+soan: sok
+soksok: sok
+soksokan: sok
+sosoan: sok
+sotoy: sok tahu
+solidbersatu: solid satu
+solusinya: solusi
+solusix: solusi
+solve: solusi
+soslusinya: solusi
+sulisi: solusi
+sulusinya: solusi
+songong: sombong
+somse: sombong sekali
+sosialisasi: sosial
+sosbud: sosial budaya
+sosek: sosial ekonomi
+medsos: sosial media
+sosmed: sosial media
+sospol: sosial politik
+sepesifikasi: spesifikasi
+spec: spesifikasi
+speck: spesifikasi
+spek: spesifikasi
+speknya: spesifikasi
+setabil: stabil
+setabilkan: stabil
+stabiliter: stabil
+stbilkan: stabil
+sop: standar operasional prosedur
+atatus: status
+st: store
+setres: stres
+setrez: stres
+suar: suara
+suarane: suara
+suaraya: suara
+mood: suasana hati
+badmood: suasana hati buruk
+betmut: suasana hati buruk
+bt: suasana hati buruk
+subbag: subbagian
+swt: subhanahu wa taala
+subhanahu: subhanallah
+sbuh: subuh
+shubuh: subuh
+ahsudahlah: sudah
+daaah: sudah
+dah: sudah
+dahla: sudah
+dh: sudah
+ndang: sudah
+sda: sudah
+sdah: sudah
+sdh: sudah
+sdk: sudah
+sidah: sudah
+suda: sudah
+sudaah: sudah
+sudahla: sudah
+sudak: sudah
+sudh: sudah
+sudsh: sudah
+ud: sudah
+uda: sudah
+udab: sudah
+udah: sudah
+udahlah: sudah
+udahmah: sudah
+udaj: sudah
+udak: sudah
+udan: sudah
+udeh: sudah
+udh: sudah
+udhlah: sudah
+wes: sudah
+wis: sudah
+yasudahlah: sudah
+yaudah: sudah
+yaudahlah: sudah
+sudahdapat: sudah dapat
+sudekat: sudah dekat
+angle: sudut
+demen: suka
+like: suka
+likenya: suka
+love: suka
+ngelike: suka
+sukah: suka
+gombal: suka merayu
+mengsukseskan: sukses
+succes: sukses
+suksenya: sukses
+sulut: sulawesi utara
+angeeeeeel: sulit
+angeeel: sulit
+angeel: sulit
+angel: sulit
+angelmen: sulit
+anger: sulit
+aulitnya: sulit
+dipersilit: sulit
+dipersyulit: sulit
+dusah: sulit
+hard: sulit
+hese: sulit
+isusah: sulit
+keaulitan: sulit
+laknat: sulit
+mejen: sulit
+mempeesulit: sulit
+memperaulit: sulit
+mempersuli: sulit
+mempersulit: sulit
+memprsulit: sulit
+menpersulit: sulit
+menyusahkn: sulit
+mepersulit: sulit
+mmpeesulit: sulit
+mmpersulit: sulit
+nempersulit: sulit
+nysahin: sulit
+nyusaahin: sulit
+nyusahain: sulit
+nyusahin: sulit
+nyusahinnya: sulit
+nyusahke: sulit
+nyusahno: sulit
+nyusain: sulit
+persulit: sulit
+saulit: sulit
+soulit: sulit
+souulit: sulit
+ssah: sulit
+ssh: sulit
+sukit: sulit
+sulid: sulit
+suliiit: sulit
+suliit: sulit
+sulis: sulit
+susa: sulit
+susaaaaaaaaah: sulit
+susaaaaah: sulit
+susaaaah: sulit
+susaaah: sulit
+susaah: sulit
+susah: sulit
+susahin: sulit
+susahnya: sulit
+susahya: sulit
+susak: sulit
+susan: sulit
+susang: sulit
+susanh: sulit
+susanya: sulit
+susat: sulit
+sush: sulit
+sussah: sulit
+sutit: sulit
+sysah: sulit
+syuliiiiiit: sulit
+syulit: sulit
+syulitnya: sulit
+syusah: sulit
+syuuuliiiit: sulit
+syuuuliiit: sulit
+syuuulliiit: sulit
+susahlogin: sulit masuk
+mbulet: sulit percaya
+sumbangin: sumbangkan
+source: sumber
+sdm: sumber daya manusia
+sumpan: sumpah
+suweer: sumpah
+suwer: sumpah
+suguh: sungguh
+suntikan: suntik
+spaya: supaya
+spy: supaya
+spya: supaya
+supayya: supaya
+supya: supaya
+suaram: suram
+dinsuruh: suruh
+disuru: suruh
+dsruh: suruh
+dsuruh: suruh
+nyuruh: suruh
+srh: suruh
+sruh: suruh
+suru: suruh
+suruag: suruh
+surpei: survei
+menyusahkan: susah
+nyusun: susun
+requeirement: syarat
+requirement: syarat
+tabanas: tabungan pembangunan nasional
+tad: tadi
+td: tadi
+tdi: tadi
+tdny: tadi
+taham: tahap
+tau: tahu
+tst: tahu sama tahu
+taun: tahun
+th: tahun
+than: tahun
+thn: tahun
+thun: tahun
+tahunberikutnya: tahun ikut
+tokai: tai
+keder: takut
+titakutkan: takut
+tktnya: takut
+tkutnya: takut
+takutakan: takut akan
+namatin: tamat
+ditamba: tambah
+ditambahin: tambah
+ditambh: tambah
+dtambh: tambah
+manambah: tambah
+menambahkn: tambah
+menambh: tambah
+menhambah: tambah
+nambah: tambah
+nambahi: tambah
+nambahin: tambah
+nambaih: tambah
+nmbah: tambah
+tamba: tambah
+tambaaaaah: tambah
+tambahanya: tambah
+tambahin: tambah
+tambakan: tambah
+tambh: tambah
+tmbah: tambah
+tmbahan: tambah
+tmbh: tambah
+tmbhkan: tambah
+patch: tambal
+nampak: tampak
+nampaknya: tampak
+interface: tampil
+nampilin: tampil
+tampilan: tampil
+tampilanx: tampil
+tmpilan: tampil
+webview: tampil website
+nampung: tampung
+tnh: tanah
+mark: tanda
+marker: tanda
+markernya: tanda
+sig: tanda
+sign: tanda
+signer: tanda
+dihandle: tangan
+ditangan: tangan
+handel: tangan
+handler: tangan
+menghandle: tangan
+ngehandle: tangan
+penangganan: tangan
+date: tanggal
+taggal: tanggal
+tangggal: tanggal
+tanggl: tanggal
+tggl: tanggal
+tgl: tanggal
+tnggal: tanggal
+ditanggepin: tanggap
+tanggepannya: tanggap
+nanggulangi: tanggulang
+nanggung: tanggung
+tangung: tanggung
+bertanggungjawab: tanggung jawab
+nangis: tangis
+capture: tangkap
+screenshot: tangkap layar
+tanmpa: tanpa
+tnpa: tanpa
+brtnya: tanya
+nanya: tanya
+tnyak: tanya
+pi: tapi
+ketaqwaan: taqwa
+tarohannya: taruh
+layout: tata letak
+dilink: taut
+ling: taut
+link: taut
+linknya: taut
+ahahaha: tawa
+ahihhi: tawa
+awoakwoakow: tawa
+awokawok: tawa
+awokawokawok: tawa
+awokwakwkakwk: tawa
+awokwowkwkwkw: tawa
+bahahah: tawa
+ckckck: tawa
+ckckckck: tawa
+ckckkckck: tawa
+haha: tawa
+hahah: tawa
+hahaha: tawa
+hahahaha: tawa
+hahahahaha: tawa
+hahahahha: tawa
+hahahha: tawa
+hahahhaah: tawa
+hahahhahaha: tawa
+hahahhahahah: tawa
+hehe: tawa
+hehehe: tawa
+heheheheh: tawa
+ketawain: tawa
+kwkwwkwk: tawa
+wk: tawa
+wkkk: tawa
+wkkwkwkw: tawa
+wkwk: tawa
+wkwkkw: tawa
+wkwkw: tawa
+wkwkwk: tawa
+wkwkwkw: tawa
+wkwkwkwk: tawa
+wkwkwkwkw: tawa
+wokwok: tawa
+wqqkwkkwkwk: tawa
+wuhahahahha: tawa
+wwkwk: tawa
+xixixi: tawa
+xixixixi: tawa
+yahaha: tawa
+spaneng: tegang
+mencet: tekan
+ngepres: tekan
+pencet: tekan
+teken: tekan
+ti: teknik informatika
+tekhnis: teknis
+teknisi: teknis
+tekhnologi: teknologi
+abis: telah
+hbs: telah
+selelah: telah
+seletah: telah
+setalah: telah
+setelh: telah
+setlh: telah
+setrlah: telah
+stelah: telah
+stla: telah
+stlah: telah
+stlh: telah
+terlanjur: telanjur
+telmi: telat berpikir
+tlpn: telepon
+tlnga: telinga
+telkom: telkomsel
+telor: telur
+brad: teman
+bray: teman
+bro: teman
+brok: teman
+brow: teman
+bruh: teman
+friend: teman
+gaes: teman
+gais: teman
+ges: teman
+guis: teman
+guys: teman
+kancaku: teman
+kawan: teman
+kawanw: teman
+kwan: teman
+lur: teman
+rekan: teman
+sis: teman
+sob: teman
+sobat: teman
+temen: teman
+tman: teman
+wak: teman
+tbus: tembus
+tmpt: tempat
+ditps: tempat pungut suara
+tps: tempat pungut suara
+tpsnya: tempat pungut suara
+paste: tempel
+template: templat
+tmpo: tempo
+found: temu
+ketemu: temu
+ktemu: temu
+meeting: temu
+nemu: temu
+nemuin: temu
+separuh: tengah
+setegah: tengah
+stgah: tengah
+stmgah: tengah
+tengahal: tengah malam
+strngamati: tengah mati
+berantem: tengkar
+gelot: tengkar
+gelut: tengkar
+kisruh: tengkar
+ttg: tentang
+kentuan: tentu
+aplous: tepuk tangan
+captionnya: terang
+ket: terang
+keterangan: terang
+keteranganna: terang
+keteranganya: terang
+keterngan: terang
+peneragan: terang
+diterapin: terap
+terapin: terap
+terbitin: terbitkan
+trdhulu: terdahulu
+trgntg: tergantung
+thd: terhadap
+koar: teriak
+ac: terima
+acc: terima
+nerima: terima
+terimah: terima
+trima: terima
+berterimakasih: terima kasih
+makasi: terima kasih
+makasih: terima kasih
+matursuwun: terima kasih
+mksh: terima kasih
+sukseme: terima kasih
+tengkiyu: terima kasih
+terimakasi: terima kasih
+terimakasih: terima kasih
+terimaksih: terima kasih
+terimkasih: terima kasih
+terimksh: terima kasih
+thanks: terima kasih
+thx: terima kasih
+tks: terima kasih
+tq: terima kasih
+trimakasi: terima kasih
+trimakasih: terima kasih
+trims: terima kasih
+trmks: terima kasih
+trmksh: terima kasih
+trms: terima kasih
+ty: terima kasih
+tepar: terkapar
+tll: terlalu
+terlalubanyak: terlalu banyak
+ngaret: terlambat
+tnyta: ternyata
+kepikiran: terpikirkan
+tsangka: tersangka
+nyasar: tersesat
+aha: tertawa
+penertiban: tertib
+melulu: terus
+mllu: terus
+mlulu: terus
+molo: terus
+mulu: terus
+muluk: terus
+muluv: terus
+seteruanya: terus
+terooooos: terus
+terooos: terus
+terooosas: terus
+teroooz: terus
+teroos: terus
+teros: terus
+teroz: terus
+terrrrus: terus
+terruuus: terus
+teru: terus
+terua: terus
+terusa: terus
+terush: terus
+teruskan: terus
+teruus: terus
+teruuus: terus
+teruuuus: terus
+teruuuuus: terus
+teruuuuuuus: terus
+tetus: terus
+tr: terus
+tris: terus
+trooooos: terus
+trooos: terus
+tros: terus
+trs: terus
+trus: terus
+trusan: terus
+truus: terus
+tterus: terus
+tueros: terus
+twrus: terus
+terustwrang: terus terang
+ajeg: tetap
+pancet: tetap
+tetao: tetap
+tetep: tetap
+tetepa: tetap
+ttap: tetap
+tteep: tetap
+ttep: tetap
+ttp: tetap
+ttepaja: tetap saja
+but: tetapi
+kendati: tetapi
+tapikok: tetapi
+tp: tetapi
+tpi: tetapi
+ttpi: tetapi
+tpttp: tetapi tetap
+tb: tiba
+tetiba: tiba
+tibs: tiba
+tbtb: tiba tiba
+tibatiba: tiba tiba
+ketimbang: tibang
+dak: tidak
+dang: tidak
+dk: tidak
+eggk: tidak
+egk: tidak
+endak: tidak
+eng: tidak
+engga: tidak
+enggak: tidak
+enggap: tidak
+enggk: tidak
+g: tidak
+ga: tidak
+gaak: tidak
+gag: tidak
+gak: tidak
+gal: tidak
+gax: tidak
+gc: tidak
+gcx: tidak
+ggak: tidak
+gk: tidak
+gka: tidak
+gl: tidak
+gx: tidak
+kaga: tidak
+kagak: tidak
+kagk: tidak
+kga: tidak
+kgk: tidak
+mak: tidak
+moh: tidak
+nda: tidak
+ndak: tidak
+ndk: tidak
+nga: tidak
+ngak: tidak
+ngg: tidak
+ngga: tidak
+nggak: tidak
+nggk: tidak
+ngk: tidak
+ngn: tidak
+non: tidak
+not: tidak
+ora: tidak
+ore: tidak
+ra: tidak
+rak: tidak
+ta: tidak
+tak: tidak
+tda: tidak
+tdak: tidak
+tdk: tidak
+te: tidak
+teu: tidak
+tiada: tidak
+tid: tidak
+tida: tidak
+tidaak: tidak
+tidaj: tidak
+tidal: tidak
+tidk: tidak
+tifak: tidak
+tk: tidak
+todak: tidak
+ttidak: tidak
+tudaj: tidak
+tudak: tidak
+tydack: tidak
+gaada: tidak ada
+gada: tidak ada
+gda: tidak ada
+nihil: tidak ada
+null: tidak ada
+cekak: tidak ada uang
+nonaktif: tidak aktif
+gapapa: tidak apa apa
+gpp: tidak apa apa
+gabaik: tidak baik
+gabkalan: tidak bakal
+unlimited: tidak batas
+cant: tidak bisa
+gabecus: tidak bisa
+gabis: tidak bisa
+gabisa: tidak bisa
+gaiso: tidak bisa
+gakbisa: tidak bisa
+gbisa: tidak bisa
+gbs: tidak bisa
+gbsa: tidak bisa
+ndabisa: tidak bisa
+raiso: tidak bisa
+tabisa: tidak bisa
+takbisa: tidak bisa
+teubisa: tidak bisa
+spechles: tidak bisa bicara
+speechles: tidak bisa bicara
+ongkang: tidak buat apa apa
+unmacth: tidak cocok
+tidakencukupi: tidak cukup
+gaenak: tidak enak
+gaguna: tidak guna
+gapake: tidak guna
+unfaedah: tidak guna
+useles: tidak guna
+gamau: tidak ingin
+ogah: tidak ingin
+gaje: tidak jelas
+gajelas: tidak jelas
+gajelasd: tidak jelas
+gajelasssd: tidak jelas
+gajlas: tidak jelas
+gakjelas: tidak jelas
+gj: tidak jelas
+gjls: tidak jelas
+rajelas: tidak jelas
+tergajelas: tidak jelas
+unclear: tidak jelas
+notwork: tidak kerja
+gakuat: tidak kuat
+jayus: tidak lucu
+gamasalah: tidak masalah
+au ah: tidak mau tahu
+ganiat: tidak niat
+raniat: tidak niat
+abnormal: tidak normal
+gapada: tidak pada
+gafaham: tidak paham
+gangerti: tidak paham
+gpl: tidak pakai lama
+gapeduli: tidak peduli
+gakusah: tidak perlu
+gaperlu: tidak perlu
+gausa: tidak perlu
+gausah: tidak perlu
+gkusah: tidak perlu
+gapernah: tidak pernah
+never: tidak pernah
+gpny: tidak punya
+jomblo: tidak punya pacar
+nganggur: tidak punya pekerjaan
+kere: tidak punya uang
+garibet: tidak repot
+infalid: tidak sah
+invalid: tidak sah
+anjlok: tidak sedia
+down: tidak sedia
+jeblok: tidak sedia
+ngedown: tidak sedia
+unavailable: tidak sedia
+gaberes: tidak selesai
+gasemua: tidak semua
+buaya: tidak setia
+gadipersiapkan: tidak siap
+gamatang: tidak siap
+gasiap: tidak siap
+ketidakdiapan: tidak siap
+prematur: tidak siap
+premature: tidak siap
+ketidakstabilan: tidak stabil
+gasuka: tidak suka
+gaktau: tidak tahu
+gatau: tidak tahu
+gataw: tidak tahu
+mboh: tidak tahu
+mbuh: tidak tahu
+ntah: tidak tahu
+ntahlah: tidak tahu
+teing: tidak tahu
+tdr: tidur
+turu: tidur
+ditiktok: tiktok
+tiktik: tiktok
+tikos: tikus
+ditilep: tilap
+group: tim
+grup: tim
+kelompok: tim
+team: tim
+ditindaklanjuti: tindak lanjut
+stay: tinggal
+tigl: tinggal
+tingal: tinggal
+tingggal: tinggal
+tinggl: tinggal
+ngekos: tinggal di kos
+setinggi: tinggi
+tnggi: tinggi
+tioghoa: tionghoa
+type: tipe
+setipis: tipis
+ktipu: tipu
+tirani: tiran
+niru: tiru
+passeo: tisu
+tissu: tisu
+tissue: tisu
+spot: titik
+tobaat: tobat
+shop: toko
+toserba: toko serba ada
+tokped: tokopedia
+nolak: tolak
+help: tolong
+ketulung: tolong
+pils: tolong
+pleade: tolong
+please: tolong
+pliiis: tolong
+plis: tolong
+plislah: tolong
+pls: tolong
+tiolong: tolong
+tlg: tolong
+tlng: tolong
+tlong: tolong
+toling: tolong
+tolng: tolong
+tolomg: tolong
+tolon: tolong
+tolonglah: tolong
+tolonng: tolong
+toloong: tolong
+tolung: tolong
+tulung: tolong
+tlgditingkatkan: tolong baik
+tolongperbaiki: tolong baik
+toolongbdong: tolong dong
+button: tombol
+nonton: tonton
+totalitas: total
+togel: toto gelap
+towernya: tower
+tranparan: transparan
+transfaran: transparan
+transparansi: transparan
+transport: transportasi
+tren: trend
+trliunan: triliun
+bangkotan: tua
+petuga: tugas
+pr: tugas
+ptugas: tugas
+petugaskppsminumbodrek: tugas kelompok selenggara pungut suara minum bodrex
+tu: tuh
+gusti: tuhan
+yallah: tuhan
+menunju: tuju
+tujuanya: tuju
+tkg: tukang
+tuker: tukar
+ketulis: tulis
+nulis: tulis
+nulisnya: tulis
+penulisanya: tulis
+teks: tulis
+textnya: tulis
+tulisa: tulis
+tulisanx: tulis
+tulisanya: tulis
+tmpah: tumpah
+buffering: tunggu
+delay: tunggu
+ditungguin: tunggu
+liading: tunggu
+load: tunggu
+loadil: tunggu
+loading: tunggu
+loadingny: tunggu
+loadingnya: tunggu
+loadingpun: tunggu
+loadingya: tunggu
+loadinhnya: tunggu
+loadinya: tunggu
+loadnya: tunggu
+loaging: tunggu
+lodig: tunggu
+loding: tunggu
+lodingnya: tunggu
+looding: tunggu
+loooadingnya: tunggu
+loooooooodiiiig: tunggu
+louding: tunggu
+lowding: tunggu
+munyer: tunggu
+muser: tunggu
+musser: tunggu
+mutar: tunggu
+muteeer: tunggu
+muter: tunggu
+muternya: tunggu
+nuggu: tunggu
+nunggu: tunggu
+nungguin: tunggu
+nunggunya: tunggu
+nunghu: tunggu
+putar: tunggu
+lola: tunggu lama
+lolah: tunggu lama
+lolanya: tunggu lama
+downgrade: turun
+drop: turun
+takedown: turun
+turunin: turun
+turunya: turun
+merut: turut
+mnurut: turut
+mnurutku: turut
+nurutin: turut
+tutor: tutorial
+close: tutup
+closed: tutup
+nutup: tutup
+fc: tutup paksa
+forceclose: tutup paksa
+forclose: tutup paksa
+tipi: tv
+tipiwan: tvone
+duit: uang
+uangnye: uang
+berubak: ubah
+edit: ubah
+editable: ubah
+ediy: ubah
+merubh: ubah
+ngedit: ubah
+perubhaan: ubah
+prubahan: ubah
+rubah: ubah
+ubh: ubah
+ugalan: ugal
+blackbox: uji
+ditets: uji
+duji: uji
+mebguji: uji
+nguji: uji
+pentes: uji
+pentester: uji
+tes: uji
+test: uji
+tested: uji
+tester: uji
+testing: uji
+trial: uji
+truji: uji
+tryel: uji
+uat: uji
+uci: uji
+uiji: uji
+uja: uji
+uju: uji
+whitebox: uji
+diujicoba: uji coba
+mengujicoba: uji coba
+ucijoba: uji coba
+ujicoba: uji coba
+ujicobakan: uji coba
+ujicobanya: uji coba
+unjung: ujung
+ujungnyatimeout: ujung habis waktu
+ngulah: ulah
+mngulang: ulang
+ngulang: ulang
+ngulangi: ulang
+ngulangin: ulang
+re: ulang
+repeat: ulang
+ualng: ulang
+ulanggah: ulang
+ulg: ulang
+upang: ulang
+berulangkali: ulang kali
+bootlop: ulang kembali
+direstart: ulang kembali
+merifres: ulang kembali
+reboot: ulang kembali
+refresh: ulang kembali
+reload: ulang kembali
+relog: ulang kembali
+resfresh: ulang kembali
+restard: ulang kembali
+restart: ulang kembali
+ul: ulangan
+review: ulasan
+reviewnya: ulasan
+ummat: umat
+general: umum
+uu: undang undang
+apload: unggah
+aplod: unggah
+aplot: unggah
+aploud: unggah
+aplut: unggah
+diupload: unggah
+mengaplod: unggah
+mengaploud: unggah
+mengupload: unggah
+menguploud: unggah
+ngeupload: unggah
+pengaplotan: unggah
+pengapluoadan: unggah
+pengupload: unggah
+penguploadan: unggah
+penguploadtan: unggah
+penguplod: unggah
+penguplodan: unggah
+teraploud: unggah
+terupload: unggah
+upld: unggah
+upload: unggah
+uploadan: unggah
+uploade: unggah
+uploading: unggah
+uploadnya: unggah
+uplod: unggah
+uploud: unggah
+uplud: unggah
+upolad: unggah
+keunikannya: unik
+baut: untuk
+dear: untuk
+for: untuk
+intuk: untuk
+ntk: untuk
+ntuk: untuk
+to: untuk
+tuk: untuk
+ubtuk: untuk
+uduk: untuk
+unt: untuk
+untik: untuk
+untk: untuk
+untksuk: untuk
+unttk: untuk
+utk: untuk
+ngapaiin: untuk apa
+ngapain: untuk apa
+benefitsnya: untung
+cuan: untung
+cuannya: untung
+keutungan: untung
+laba: untung
+luck: untung
+brupaya: upaya
+effort: upaya
+ngurus: urus
+ngurusi: urus
+ngurusin: urus
+berurutan: urut
+berusa: usaha
+usahakn: usaha
+ushkn: usaha
+pln: usaha listrik negara
+ustad: ustaz
+trutama: utama
+valas: valuta asing
+ngevendor: vendor
+pendor: vendor
+ferivikasi: verifikasi
+memprevikasi: verifikasi
+perifikasi: verifikasi
+terferifikasi: verifikasi
+terprefikasi: verifikasi
+terverfikasi: verifikasi
+terverivikasi: verifikasi
+verfikasi: verifikasi
+veriafikasi: verifikasi
+verif: verifikasi
+verification: verifikasi
+veripikasi: verifikasi
+verivikasi: verifikasi
+vervikasi: verifikasi
+veryfikasi: verifikasi
+verval: verifikasi dan validasi
+fersi: versi
+persi: versi
+ver: versi
+veri: versi
+vr: versi
+vidio: video
+malware: virus
+wb: wabarakatuh
+face: wajah
+muka: wajah
+diwajibin: wajib
+wamil: wajib militer
+wadir: wakil direktur
+periode: waktu
+tean: waktu
+time: waktu
+timed: waktu
+timer: waktu
+times: waktu
+waktune: waktu
+wektune: waktu
+wkt: waktu
+wktku: waktu
+wktu: waktu
+wktunya: waktu
+wib: waktu indonesia bagian barat
+wit: waktu indonesia bagian timur
+kewalahan: walah
+walawe: walaupun
+walopun: walaupun
+wlpun: walaupun
+wr: warahmatullahi
+warkop: warung kopi
+warteg: warung tegal
+waspadalah: waspada
+wassalam: wassalamualaikum
+diweb: web
+web: website
+webnya: website
+wtf: what the fuck
+wa: whatsapp
+watsap: whatsapp
+whatap: whatsapp
+whatsap: whatsapp
+wil: wilayah
+wew: wow
+oi: woy
+woi: woy
+wooi: woy
+wooooi: woy
+wooooooooi: woy
+woui: woy
+wpy: woy
+nggih: ya
+yac: ya
+yah: ya
+yak: ya
+yalah: ya
+yar: ya
+ye: ya
+yea: ya
+yeah: ya
+yes: ya
+yeu: ya
+yh: ya
+yha: ya
+yo: ya
+za: ya
+yaampun: ya ampun
+yakali: ya kali
+yakan: ya kan
+yawdah: ya sudah
+yaallah: ya tuhan
+ngeyakinin: yakin
+sure: yakin
+sing: yang
+ug: yang
+yag: yang
+yamg: yang
+yanh: yang
+yg: yang
+ynag: yang
+yng: yang
+ygterupdate: yang baru
+bnran: yang benar
+yth: yang hormat
+yl: yang lain
+ytta: yang tau tau saja
+youtub: youtube
+yt: youtube
+yutub: youtube
+jaman: zaman
+jadul: zaman dahulu

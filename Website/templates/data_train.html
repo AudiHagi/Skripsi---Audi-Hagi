@@ -1,0 +1,13 @@
+{% extends 'layout.html'%}
+{% block content %}
+<div class="p-4 sm:ml-64">
+    <div class="p-4 mt-14">
+        <h1 class="mt-2 mb-2 text-center text-2xl font-bold text-black">Data Latih</h1>
+    </div>
+    <div class="p-4 t-14">
+        <table class="mt-2 w-full">
+            {{ fe_html_content|safe }}
+        </table>
+    </div>
+</div>
+{% endblock %}

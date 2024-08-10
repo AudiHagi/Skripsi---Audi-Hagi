@@ -1,0 +1,11 @@
+negative_percentage: 45
+positive_percentage: 55
+total_negatif: 9516
+total_positif: 11414
+accuracy: 91
+precision_negative: 92
+precision_positive: 90
+recall_negative: 87
+recall_positive: 94
+f1_negative: 90
+f1_positive: 92

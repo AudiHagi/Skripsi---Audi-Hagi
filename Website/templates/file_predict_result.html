@@ -1,0 +1,122 @@
+{% extends 'layout.html'%}
+{% block content %}
+<div class="p-4 sm:ml-64">
+    <div class="p-4 mt-14">
+        {% for message in get_flashed_messages()%}
+        <div id="alert-border-3" class="flex items-center p-4 mb-4 border-t-4 border-green-400 text-green-400 bg-black"
+            role="alert">
+            <svg class="flex-shrink-0 w-4 h-4" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor"
+                viewBox="0 0 20 20">
+                <path
+                    d="M10 .5a9.5 9.5 0 1 0 9.5 9.5A9.51 9.51 0 0 0 10 .5ZM9.5 4a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3ZM12 15H8a1 1 0 0 1 0-2h1v-3H8a1 1 0 0 1 0-2h2a1 1 0 0 1 1 1v4h1a1 1 0 0 1 0 2Z" />
+            </svg>
+            <div class="ms-3 text-sm font-medium">
+                {{ message }}
+            </div>
+            <button type="button"
+                class="ms-auto -mx-1.5 -my-1.5 bg-green-50 text-green-400 rounded-lg focus:ring-2 focus:ring-green-400 p-1.5 hover:bg-green-200 inline-flex items-center justify-center h-8 w-8 dark:bg-gray-800 dark:hover:bg-gray-700"
+                data-dismiss-target="#alert-border-3" aria-label="Close">
+                <span class="sr-only">Dismiss</span>
+                <svg class="w-3 h-3" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none"
+                    viewBox="0 0 14 14">
+                    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                        d="m1 1 6 6m0 0 6 6M7 7l6-6M7 7l-6 6" />
+                </svg>
+            </button>
+        </div>
+        {% endfor %}
+        <h1 class="mt-2 mb-6 text-center text-2xl font-bold text-black">Hasil Analisis
+            Sentimen File Ulasan</h1>
+        <div class="grid grid-cols-2 gap-4">
+            <div class="rounded p-2">
+                <div>
+                    <h1 class="mb-2 text-center text-xl font-bold text-black">Confusion Matrix
+                        Heatmap Prediksi</h1>
+                    <img class="text-center rounded-lg mx-auto mb-1"
+                        src="../static/assets/images/Confusion Matrix Heatmap Prediction.png"
+                        alt="Confusion Matrix Heatmap Prediction" style="max-width: 100%; max-height: 500px;">
+                </div>
+            </div>
+            <div class="rounded p-2">
+                <div>
+                    <h1 class="mb-2 text-center text-xl font-bold text-black">Classification
+                        Report Prediksi</h1>
+                    <table class="w-full border-dark bg-white text-dark">
+                        <thead>
+                            <tr class="bg-black">
+                                <th class="px-6 py-3 text-white">Metrik</th>
+                                <th class="px-6 py-3 text-white">Negatif</th>
+                                <th class="px-6 py-3 text-white">Positif</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="px-6 py-3 font-bold">Accuracy</td>
+                                <td class="px-6 py-3 text-center font-bold" colspan="2">{{ fe_metrics_dict['accuracy']
+                                    }}%
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="px-6 py-3 font-bold">Precision</td>
+                                <td class="px-6 py-3 text-center font-bold">{{ fe_metrics_dict['precision_negative']
+                                    }}%</td>
+                                <td class="px-6 py-3 text-center font-bold">{{ fe_metrics_dict['precision_positive']
+                                    }}%</td>
+                            </tr>
+                            <tr>
+                                <td class="px-6 py-3 font-bold">Recall</td>
+                                <td class="px-6 py-3 text-center font-bold">{{ fe_metrics_dict['recall_negative'] }}%
+                                </td>
+                                <td class="px-6 py-3 text-center font-bold">{{ fe_metrics_dict['recall_positive'] }}%
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="px-6 py-3 font-bold">F1-Score</td>
+                                <td class="px-6 py-3 text-center font-bold">{{ fe_metrics_dict['f1_negative'] }}%</td>
+                                <td class="px-6 py-3 text-center font-bold">{{ fe_metrics_dict['f1_positive'] }}%</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <table class="mt-1 text-sm text-black definition-table">
+                        <tr>
+                            <td class="text-center px-4 py-2 font-bold">Akurasi</td>
+                            <td class="px-4 py-2">Perbandingan antara jumlah prediksi yang tepat (positif maupun
+                                negatif) dengan jumlah
+                                total data yang ada</td>
+                        </tr>
+                        <tr>
+                            <td class="text-center px-4 py-2 font-bold">Precision</td>
+                            <td class="px-4 py-2">Perbandingan antara jumlah prediksi yang tepat (positif maupun
+                                negatif) dengan
+                                keseluruhan hasil prediksi (positif maupun negatif)</td>
+                        </tr>
+                        <tr>
+                            <td class="text-center px-4 py-2 font-bold">Recall</td>
+                            <td class="px-4 py-2">Perbandingan jumlah prediksi yang tepat (positif maupun negatif)
+                                dengan jumlah
+                                keseluruhan data yang sebenarnya termasuk dalam kategori tersebut (positif maupun
+                                negatif)</td>
+                        </tr>
+                        <tr>
+                            <td class="text-center px-4 py-2 font-bold">F1-Score</td>
+                            <td class="px-4 py-2">Menunjukkan performa secara keseluruhan dari suatu model</td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="p-4 t-14">
+        <div class="flex justify-between items-center">
+            <a href="data:text/csv;charset=utf-8,{{ fe_csv_data | urlencode }}"
+                download="Sirekap User App Comment Sentiment Result.csv"
+                class="justify-center rounded-md bg-black px-3 py-1.5 text-sm font-semibold leading-6 text-white hover:bg-gray-500">Unduh
+                Hasil Sebagai CSV</a>
+            <h1 class="text-md text-black">waktu ekseskusi: {{fe_duration_total}}</h1>
+        </div>
+        <table class="mt-2 w-full">
+            {{ fe_html_content|safe }}
+        </table>
+    </div>
+</div>
+{% endblock %}

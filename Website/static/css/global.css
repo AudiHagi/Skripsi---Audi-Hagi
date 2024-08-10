@@ -1,0 +1,18 @@
+th:first-letter {
+    text-transform: uppercase;
+}
+
+th,
+td {
+    border: 1px solid #000000;
+}
+
+th {
+    text-align: center;
+    font-weight: bold;
+}
+
+.fade-out {
+    opacity: 0;
+    transition: opacity 0.5s ease;
+}

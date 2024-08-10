@@ -1,0 +1,174 @@
+{% extends 'layout.html'%}
+{% block content %}
+<div class="p-4 sm:ml-64">
+    <div class="p-4 mt-14">
+        <h1 class="mt-2 text-center text-2xl font-bold text-black">Analisis Sentimen
+            Ulasan Aplikasi SiRekap</h1>
+    </div>
+</div>
+<div class="p-4 sm:ml-64">
+    <div class="p-4">
+        <div class="relative overflow-x-auto">
+            <table class="w-full text-sm text-center text-white">
+                <thead class="text-xs text-white uppercase bg-black">
+                    <tr>
+                        <th scope="col" class="px-6 py-3">
+                            Metrik
+                        </th>
+                        <th scope="col" class="px-6 py-3">
+                            Logistic Regression
+                        </th>
+                        <th scope="col" class="px-6 py-3">
+                            Deskripsi
+                        </th>
+                    </tr>
+                </thead>
+                <tbody class="text-black font-medium">
+                    <tr>
+                        <td class="px-6 py-3">
+                            Akurasi
+                            </th>
+                        <td class="px-6 py-3">
+                            {{ fe_model_information_dict['accuracy'] }}%
+                        </td>
+                        <td class="text-left px-6 py-3">
+                            Persentase prediksi benar
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="px-6 py-3">
+                            Presisi (-)
+                            </th>
+                        <td class="px-6 py-3">
+                            {{ fe_model_information_dict['precision_negative'] }}%
+                        </td>
+                        <td class="text-left px-6 py-3">
+                            Kemampuan model memprediksi data negatif dengan benar
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="px-6 py-3">
+                            Presisi (+)
+                            </th>
+                        <td class="px-6 py-3">
+                            {{ fe_model_information_dict['precision_positive'] }}%
+                        </td>
+                        <td class="text-left px-6 py-3">
+                            Kemampuan model memprediksi data positif dengan benar
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="px-6 py-3">
+                            Recall (-)
+                            </th>
+                        <td class="px-6 py-3">
+                            {{ fe_model_information_dict['recall_negative'] }}%
+                        </td>
+                        <td class="text-left px-6 py-3">
+                            Kemampuan model menemukan semua data negatif
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="px-6 py-3">
+                            Recall (+)
+                            </th>
+                        <td class="px-6 py-3">
+                            {{ fe_model_information_dict['recall_positive'] }}%
+                        </td>
+                        <td class="text-left px-6 py-3">
+                            Kemampuan model menemukan semua data positif
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="px-6 py-3">
+                            F1-Score (-)
+                            </th>
+                        <td class="px-6 py-3">
+                            {{ fe_model_information_dict['f1_negative'] }}%
+                        </td>
+                        <td class="text-left px-6 py-3">
+                            Keseimbangan antara presisi (-) dan recall (-)
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="px-6 py-3">
+                            F1-Score (+)
+                            </th>
+                        <td class="px-6 py-3">
+                            {{ fe_model_information_dict['f1_positive'] }}%
+                        </td>
+                        <td class="text-left px-6 py-3">
+                            Keseimbangan antara presisi (+) dan recall (+)
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+<div class="p-4 sm:ml-64">
+    <div class="p-4">
+        <div class="grid grid-cols-2 gap-2">
+            <div class="rounded p-2">
+                <div>
+                    <h1 class="text-center text-xl font-bold text-black">Confussion
+                        Matrix Heatmap</h1>
+                    <img class="text-center rounded-lg mx-auto mb-1"
+                        src="../static/assets/images/Confusion Matrix Heatmap LR.png" alt="Confussion Matrix Heatmap"
+                        width="600" height="500">
+                    <p class="text-justify text-md font-normal text-black">Gambar ini
+                        menunjukkan Confussion Matrix Heatmap untuk model klasifikasi Logistic Regression (LR). Matriks
+                        ini digunakan untuk mengevaluasi kinerja model klasifikasi dengan memvisualisasikan perbandingan
+                        antara label sebenarnya dan label prediksi.</p>
+                </div>
+            </div>
+            <div class="rounded p-2">
+                <div>
+                    <h1 class="text-center text-xl font-bold text-black">Diagram Jumlah
+                        Sentimen</h1>
+                    <img class="text-center rounded-lg mx-auto mb-1"
+                        src="../static/assets/images/Sentiment Count Chart After Z-Score.png"
+                        alt="Sentiment Count Chart" width="600" height="500">
+                    <p class="text-justify text-md font-normal text-black">Gambar ini
+                        menunjukkan jumlah dari review yang memiliki sentimen negatif dan review yang memiliki sentimen
+                        positif setelah dilakukan normalisasi data dengan Z-Score. Dimana terdapat
+                        {{fe_model_information_dict['positive_percentage'] }}% ({{
+                        fe_model_information_dict['total_positif']
+                        }}) data
+                        positif dan {{fe_model_information_dict['negative_percentage'] }}%
+                        ({{fe_model_information_dict['total_negatif']
+                        }}) data
+                        negatif.
+                    </p>
+                </div>
+            </div>
+            <div class="rounded p-2">
+                <div>
+                    <h1 class="mb-2 text-center text-xl font-bold text-black">Word Cloud
+                        Positif</h1>
+                    <img class="text-center rounded-lg mx-auto mb-1"
+                        src="../static/assets/images/Wordcloud Kata Positif.png" alt="Positive Words Chart" width="600"
+                        height="500">
+                    <p class="text-justify text-md font-normal text-black">Gambar diatas menunjukkan wordcloud yang
+                        berisi berbagai kata positif yang terdapat di dalam kumpulan review dari aplikasi SiRekap
+                        Pemilu.
+                        Semakin besar ukuran kata, maka kata tersebut adalah kata yang paling sering muncul.</p>
+                </div>
+            </div>
+            <div class="rounded p-2">
+                <div>
+                    <h1 class="mb-2 text-center text-xl font-bold text-black">Word Cloud
+                        Negatif</h1>
+                    <img class="text-center rounded-lg mx-auto mb-1"
+                        src="../static/assets/images/Wordcloud Kata Negatif.png" alt="Negative Words Chart" width="600"
+                        height="500">
+                    <p class="text-justify text-md font-normal text-black">Gambar diatas menunjukkan wordcloud yang
+                        berisi berbagai kata negatif yang terdapat di dalam kumpulan review dari aplikasi SiRekap
+                        Pemilu.
+                        Semakin besar ukuran kata, maka kata tersebut adalah kata yang paling sering muncul.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
